@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" width="420" height="420">
+  <defs>
+    <style>
+      .bg2{fill:#08060a;}
+      .grid{fill:none;stroke:rgba(200,148,10,0.10);stroke-width:1;}
+      .spoke{stroke:rgba(200,148,10,0.13);stroke-width:1;}
+      .data{fill:rgba(200,90,30,0.18);stroke:#c85a1e;stroke-width:2;stroke-dasharray:1000;stroke-dashoffset:1000;animation:drawShape 2.2s ease forwards 0.3s;filter:drop-shadow(0 0 8px rgba(200,90,30,0.4));}
+      @keyframes drawShape{to{stroke-dashoffset:0;}}
+      .lbl{font-family:'Courier New',monospace;font-size:12px;fill:#c8bfc0;text-anchor:middle;}
+      .title{font-family:'Courier New',monospace;font-size:10px;letter-spacing:3px;fill:#c85a1e;}
+    </style>
+  </defs>
+  <rect class="bg2" width="420" height="420" rx="6"/>
+  <rect x="0" y="0" width="3" height="420" fill="#c85a1e" rx="1"/>
+  <text class="title" x="16" y="22">$ cat battle-stats.radar</text>
+  <polygon class="grid" points="210,60 328,135 328,285 210,360 92,285 92,135"/>
+  <polygon class="grid" points="210,85 305,148 305,272 210,335 115,272 115,148"/>
+  <polygon class="grid" points="210,110 282,161 282,259 210,310 138,259 138,161"/>
+  <polygon class="grid" points="210,135 259,174 259,246 210,285 161,246 161,174"/>
+  <polygon class="grid" points="210,160 236,187 236,233 210,260 184,233 184,187"/>
+  <line class="spoke" x1="210" y1="210" x2="210" y2="60"/>
+  <line class="spoke" x1="210" y1="210" x2="328" y2="135"/>
+  <line class="spoke" x1="210" y1="210" x2="328" y2="285"/>
+  <line class="spoke" x1="210" y1="210" x2="210" y2="360"/>
+  <line class="spoke" x1="210" y1="210" x2="92" y2="285"/>
+  <line class="spoke" x1="210" y1="210" x2="92" y2="135"/>
+  <polygon class="data" points="210,74 317,142 319,275 210,346 103,272 100,148"/>
+  <text class="lbl" x="210" y="50">Problem Solving</text>
+  <text class="lbl" x="352" y="132">Frontend</text>
+  <text class="lbl" x="352" y="295">Backend</text>
+  <text class="lbl" x="210" y="378">AI / ML</text>
+  <text class="lbl" x="68" y="295">Speed</text>
+  <text class="lbl" x="68" y="132">Teamwork</text>
+</svg>

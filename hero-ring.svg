@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="360" height="360">
+  <defs>
+    <style>
+      .ring1{fill:none;stroke:rgba(200,148,10,0.40);stroke-width:1.5;stroke-dasharray:8 6;animation:spin 14s linear infinite;transform-origin:200px 200px;}
+      .ring2{fill:none;stroke:rgba(200,90,30,0.28);stroke-width:1;stroke-dasharray:4 10;animation:spinRev 22s linear infinite;transform-origin:200px 200px;}
+      .ring3{fill:none;stroke:rgba(106,8,24,0.35);stroke-width:1;stroke-dasharray:2 8;animation:spin 30s linear infinite;transform-origin:200px 200px;}
+      .pulse{fill:none;stroke:rgba(200,90,30,0.18);stroke-width:2;animation:pulse 3s ease-in-out infinite;transform-origin:200px 200px;}
+      @keyframes spin{to{transform:rotate(360deg);}}
+      @keyframes spinRev{to{transform:rotate(-360deg);}}
+      @keyframes pulse{0%,100%{opacity:.3;stroke-width:1;}50%{opacity:.9;stroke-width:3;}}
+      .kanji{font-family:serif;font-size:13px;fill:rgba(200,148,10,0.60);}
+    </style>
+  </defs>
+  <circle class="ring1" cx="200" cy="200" r="188"/>
+  <circle class="ring2" cx="200" cy="200" r="171"/>
+  <circle class="ring3" cx="200" cy="200" r="160"/>
+  <circle class="pulse" cx="200" cy="200" r="150"/>
+  <text class="kanji" x="200" y="26" text-anchor="middle">焔</text>
+  <text class="kanji" x="376" y="206" text-anchor="middle">柱</text>
+  <text class="kanji" x="200" y="396" text-anchor="middle">炎</text>
+  <text class="kanji" x="24" y="206" text-anchor="middle">雷</text>
+</svg>

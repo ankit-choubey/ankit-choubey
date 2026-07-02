@@ -1,60 +1,47 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════
-     BREATHING CUT INTRO
-════════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/intro.svg" width="100%" alt="intro"/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     HERO BANNER
-════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0:050508,50:1a0000,100:050508&fontColor=ffffff&text=%3E_%20ANKIT%20CHOUBEY&fontSize=42&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%26%20LLM%20Systems%20%E2%80%A2%20Researcher%20%E2%80%A2%20Hackathon%20Builder&descSize=15&descColor=c40000&descAlignY=63&animation=fadeIn&stroke=c40000&strokeWidth=1" alt="banner"/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     TYPING SVG
-════════════════════════════════════════════════════════════════ -->
-<a href="https://github.com/ankit-choubey">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=900&color=C40000&center=true&vCenter=true&width=860&lines=%24+whoami+%E2%86%92+AI%2FML+Engineer+%7C+SRM+University+AP+%7C+3rd+Year+CSE;%24+focus+%E2%86%92+Agentic+AI+%7C+LLMs+%7C+RAG+%7C+Multi-Agent+Systems;%24+wins+%E2%86%92+%F0%9F%8F%86+HackBIOS+%24564+%7C+TechTatva+%E2%82%B910K+%7C+%F0%9F%A5%88+Zenith+%241%2C500;%24+building+%E2%86%92+Aegis-Forge+%7C+TriNetra+%7C+SurakshaMesh+%7C+DharmaShield+%7C+EDITH;%24+research+%E2%86%92+AI+Governance+%7C+Reinforcement+Learning+%7C+Explainable+AI" alt="typing"/>
-</a>
+<img src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/intro.svg" width="100%" alt="ANKIT CHOUBEY — CodeHashiraX"/>
 
 <br/>
 
-<!-- badges -->
-<img src="https://img.shields.io/badge/B.Tech%20CSE-SRM%20University%20AP-c40000?style=flat-square&labelColor=0a0008&color=1a0000&logo=graduation-cap&logoColor=c40000" alt="degree"/>
-<img src="https://img.shields.io/badge/%F0%9F%8F%86_Hackathon_Builder-2_Wins_%7C_1_Runner--up_%7C_2_Finalists-c40000?style=flat-square&labelColor=0a0008" alt="wins"/>
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_India-1a0000?style=flat-square&labelColor=0a0008&logoColor=c40000" alt="location"/>
-<img src="https://img.shields.io/badge/Open%20To-Research%20%26%20AI%20Roles-c40000?style=flat-square&labelColor=0a0008" alt="open"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&height=180&color=0:08060a,50:1a0008,100:08060a&fontColor=c8940a&text=%3E_%20CodeHashiraX&fontSize=36&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20AI%20Builder%20%E2%80%A2%20Hackathon%20Podium&descSize=14&descColor=c85a1e&descAlignY=65&animation=fadeIn&stroke=c85a1e&strokeWidth=1" alt="banner"/>
+
+<br/>
+
+<a href="https://github.com/ankit-choubey">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&pause=900&color=C85A1E&center=true&vCenter=true&width=860&lines=%24+whoami+%E2%86%92+AI%2FML+Engineer+%7C+SRM+University+AP+%7C+2nd+Year+CSE;%24+focus+%E2%86%92+Agentic+AI+%7C+LLMs+%7C+RAG+%7C+Multi-Agent+Systems;%24+wins+%E2%86%92+%F0%9F%8F%86+Zenith+2026+%E2%80%A2+%F0%9F%8F%86+SRM+Internal+%E2%80%A2+%F0%9F%8F%85+IIT+Bombay+Top25;%24+building+%E2%86%92+Aegis-Forge+%7C+TriNetra+%7C+SurakshaMesh+%7C+DharmaShield+%7C+EDITH;%24+research+%E2%86%92+AI+Governance+%7C+Reinforcement+Learning+%7C+XAI" alt="typing"/>
+</a>
 
 <br/><br/>
 
-<!-- social links -->
-<a href="https://github.com/ankit-choubey"><img src="https://img.shields.io/badge/GitHub-c40000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0008" alt="github"/></a>
-<a href="https://www.linkedin.com/in/theankitchoubey"><img src="https://img.shields.io/badge/LinkedIn-c40000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0a0008" alt="linkedin"/></a>
-<a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-c40000?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=0a0008" alt="leetcode"/></a>
-<a href="mailto:ankitkumarchoubey0909@gmail.com"><img src="https://img.shields.io/badge/Email-c40000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0a0008" alt="email"/></a>
+![](https://img.shields.io/badge/B.Tech%20CSE-SRM%20University%20AP-c85a1e?style=flat-square&labelColor=08060a)
+![](https://img.shields.io/badge/%F0%9F%8F%86_3%C3%97_Podium-Hackathon%20Builder-c8940a?style=flat-square&labelColor=08060a)
+![](https://img.shields.io/badge/Open%20To-Research%20%26%20AI%20Roles-6a0818?style=flat-square&labelColor=08060a)
+![](https://komarev.com/ghpvc/?username=ankit-choubey&style=flat-square&color=c85a1e&labelColor=08060a&label=Views)
 
-<br/><br/>
+<br/>
 
-<!-- stats pills -->
-<img src="https://komarev.com/ghpvc/?username=ankit-choubey&style=flat-square&color=c40000&labelColor=0a0008&label=Profile+Views" alt="views"/>
-<img src="https://img.shields.io/github/followers/ankit-choubey?style=flat-square&color=c40000&labelColor=0a0008&logo=github&label=Followers" alt="followers"/>
-<img src="https://img.shields.io/github/stars/ankit-choubey?style=flat-square&color=c40000&labelColor=0a0008&logo=github&label=Stars" alt="stars"/>
+[![GitHub](https://img.shields.io/badge/GitHub-c85a1e?style=for-the-badge&logo=github&logoColor=fff&labelColor=08060a)](https://github.com/ankit-choubey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c8940a?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=08060a)](https://www.linkedin.com/in/theankitchoubey)
+[![LeetCode](https://img.shields.io/badge/LeetCode-c85a1e?style=for-the-badge&logo=leetcode&logoColor=fff&labelColor=08060a)](https://leetcode.com/u/TheCodeHashira/)
+[![Email](https://img.shields.io/badge/Email-c8940a?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=08060a)](mailto:ankitkumarchoubey0909@gmail.com)
+
+<img src="https://img.shields.io/github/followers/ankit-choubey?style=flat-square&color=c85a1e&labelColor=08060a&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/ankit-choubey?style=flat-square&color=c8940a&labelColor=08060a&logo=github&label=Stars"/>
 
 </div>
 
 ---
 
-## `> whoami`
+## `> cat .profile`
 
 ```bash
-$ cat .profile
-
 ROLE        =  AI/ML Engineer | Agentic AI & LLM Systems
 FOCUS       =  Multi-Agent Orchestration | Explainable AI | RL Environments
 RESEARCH    =  AI Governance | Policy Compliance | Safety Systems
-HACKATHONS  =  🏆 HackBIOS $564 | 🏆 TechTatva ₹10K | 🥈 Zenith $1,500 | 🏅 IIT Bombay
+HACKATHONS  =  🏆 Zenith 2026 (2nd) | 🏆 SRM Internal (1st) | 🏅 IIT Bombay Top25
 BUILDING    =  Aegis-Forge | TriNetra | SurakshaMesh | DharmaShield-Env | EDITH
-OPEN_TO     =  AI Research Roles | ML Engineering | Agentic Systems
+OPEN_TO     =  AI Research | ML Engineering | Agentic Systems
 ```
 
 > *"I don't just train models — I build systems that reason, plan, and act."*
@@ -65,75 +52,65 @@ OPEN_TO     =  AI Research Roles | ML Engineering | Agentic Systems
 
 <div align="center">
 
-**[ Languages ]**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,bash&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash&theme=dark"/>
 
-**[ AI / ML ]**
+**AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ai"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
-**[ Backend & Data ]**
+**Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,react,postgres,mongodb,redis&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,postgres,mongodb,redis&theme=dark"/>
 
-**[ Cloud, DevOps & Infra ]**
+**Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,github&theme=dark" alt="cloud"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,github&theme=dark"/>
 
 </div>
 
 <div align="center">
 
-**[ AI Stack ]**
-
-![LangChain](https://img.shields.io/badge/LangChain-c40000?style=flat-square&logo=chainlink&logoColor=fff&labelColor=0a0008)
-![LangGraph](https://img.shields.io/badge/LangGraph-c40000?style=flat-square&labelColor=0a0008)
-![OpenAI](https://img.shields.io/badge/OpenAI-c40000?style=flat-square&logo=openai&logoColor=fff&labelColor=0a0008)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-c40000?style=flat-square&logo=huggingface&logoColor=fff&labelColor=0a0008)
-![Groq](https://img.shields.io/badge/Groq%20API-c40000?style=flat-square&labelColor=0a0008)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-c40000?style=flat-square&labelColor=0a0008)
-![RLHF](https://img.shields.io/badge/RLHF%20%2F%20RL-c40000?style=flat-square&labelColor=0a0008)
-![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-c40000?style=flat-square&labelColor=0a0008)
-![MCP](https://img.shields.io/badge/MCP%20Protocol-c40000?style=flat-square&labelColor=0a0008)
-![LiveKit](https://img.shields.io/badge/LiveKit-c40000?style=flat-square&labelColor=0a0008)
-![Deepgram](https://img.shields.io/badge/Deepgram-c40000?style=flat-square&labelColor=0a0008)
+![LangChain](https://img.shields.io/badge/LangChain-c85a1e?style=flat-square&labelColor=08060a)
+![LangGraph](https://img.shields.io/badge/LangGraph-c85a1e?style=flat-square&labelColor=08060a)
+![OpenAI](https://img.shields.io/badge/OpenAI-c8940a?style=flat-square&logo=openai&logoColor=fff&labelColor=08060a)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-c85a1e?style=flat-square&logo=huggingface&logoColor=fff&labelColor=08060a)
+![Groq](https://img.shields.io/badge/Groq-c8940a?style=flat-square&labelColor=08060a)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-c85a1e?style=flat-square&labelColor=08060a)
+![RLHF](https://img.shields.io/badge/RLHF%20%2F%20RL-c8940a?style=flat-square&labelColor=08060a)
+![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-c85a1e?style=flat-square&labelColor=08060a)
+![MCP](https://img.shields.io/badge/MCP%20Protocol-c8940a?style=flat-square&labelColor=08060a)
 
 </div>
 
 ---
 
-## `> cat domains.json`
-
-| Domain | Proficiency | Details |
-| :-- | :-- | :-- |
-| **Agentic AI** | `█████ Expert` | Multi-agent orchestration, autonomous decision-making, tool use |
-| **LLMs & RAG** | `█████ Expert` | Retrieval pipelines, prompt engineering, fine-tuning, evals |
-| **RL / AI Governance** | `████▓ Senior` | Policy-driven RL environments, compliance, safety frameworks |
-| **Explainable AI** | `████▓ Senior` | SHAP, LIME, transparent decisions in high-stakes domains |
-| **Backend Engineering** | `████▓ Senior` | FastAPI, Spring Boot, REST APIs, microservices |
-| **ML / Deep Learning** | `████░ Mid-Senior` | PyTorch, CNNs, NLP, XGBoost, LightGBM |
-| **Cloud & DevOps** | `███░░ Mid` | AWS, Docker, Kubernetes, CI/CD |
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     SHARINGAN ANIMATION — appears before projects
-════════════════════════════════════════════════════════════════ -->
+## `> cat power-levels.txt`
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/skill-bars.svg" width="700" alt="skill bars"/>
+
+</div>
+
+---
+
+## `> cat battle-log.csv`
+
+<div align="center">
+
+| # | Hackathon | Host | Result | Prize | Project |
+|:--|:--|:--|:--|:--|:--|
+| 01 | **Zenith Hackathon 2026** | Point Blank Club × Final Round AI | 🥈 2nd Place | **$1,500** | AI Multi-Agent System |
+| 02 | **LogiTHON 2025** | IIT Bombay × Softlink Global | 🏅 Top 25 / 500+ | — | Cross-Border Compliance Checker |
+| 03 | **SRM Internal Hackathon** | SRM University AP | 🥇 1st Place | — | TBA |
+| 04 | **Hack for Green** | — | 🏅 Top 25 Team | — | — |
+| 05 | **Tata Imagination Challenge** | Tata Group | 🎯 Semi-Finalist | — | Cleared Coding + Aptitude |
+
 <br/>
 
-<img src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/sharingan.svg" width="140" alt="sharingan"/>
-
-<br/>
-
-```
-[ ACTIVATING PROJECT VISION ]
-```
-
-<br/>
+<img src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/battle-radar.svg" width="420" alt="battle radar"/>
 
 </div>
 
@@ -143,144 +120,64 @@ OPEN_TO     =  AI Research Roles | ML Engineering | Agentic Systems
 
 <details open>
 <summary><b>▶ Aegis-Forge — Multi-Agent Coordinated AI Platform</b></summary>
-
 <br/>
 
-Multi-agent AI platform enabling real-time reasoning, voice interaction, and coordinated autonomous decision-making.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python · FastAPI · LangChain · LiveKit · Deepgram · Groq API · Docker |
-| **Scale** | Multi-agent orchestration with real-time voice coordination |
-| **Intelligence** | Autonomous task decomposition, agent handoffs, tool calling |
-| **Voice** | Real-time voice interaction layer with STT/TTS pipeline |
-| **Impact** | Coordinated reasoning across specialized agents |
-| **Repo** | [`github.com/ankit-choubey`](https://github.com/ankit-choubey) |
+| | |
+|:--|:--|
+| **Stack** | Python · FastAPI · LangChain · LiveKit · Deepgram · Groq · Docker |
+| **What** | Multi-agent platform with real-time voice, autonomous reasoning and agent handoffs |
+| **Scale** | Queue-driven orchestration across specialised agents |
+| **Repo** | [github.com/ankit-choubey](https://github.com/ankit-choubey) |
 
 </details>
 
 <details>
-<summary><b>▶ TriNetra — Explainable AI Credit Intelligence Platform</b></summary>
-
+<summary><b>▶ TriNetra — Explainable AI Credit Intelligence</b></summary>
 <br/>
 
-Explainable AI credit intelligence system for fraud detection, financial risk analysis, and transparent decision support.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python · FastAPI · XGBoost · LightGBM · SHAP · LIME · Redis · Supabase · WebSockets |
-| **Scale** | Real-time fraud scoring on financial transaction streams |
-| **XAI** | SHAP/LIME explainability — humans understand every decision |
-| **Impact** | Transparent AI decisions for regulated financial environments |
-| **Repo** | [`github.com/ankit-choubey`](https://github.com/ankit-choubey) |
+| | |
+|:--|:--|
+| **Stack** | Python · XGBoost · LightGBM · SHAP · LIME · FastAPI · Redis · Supabase |
+| **What** | Real-time fraud scoring with SHAP/LIME transparency on every decision |
+| **Repo** | [github.com/ankit-choubey](https://github.com/ankit-choubey) |
 
 </details>
 
 <details>
-<summary><b>▶ SurakshaMesh — Industrial Worker Safety AI Platform</b></summary>
-
+<summary><b>▶ SurakshaMesh — Industrial Worker Safety AI</b></summary>
 <br/>
 
-AI-powered industrial worker safety platform using IoT, mesh networking, and predictive hazard detection.
-
-| Aspect | Detail |
-| :-- | :-- |
+| | |
+|:--|:--|
 | **Stack** | Python · Node.js · React · MongoDB · IoT · BLE/LoRa Simulation |
-| **Scale** | Mesh-networked sensor nodes with real-time hazard prediction |
-| **Detection** | Predictive hazard ML models on industrial sensor data |
-| **Impact** | Proactive safety — prevent incidents before they happen |
-| **Repo** | [`github.com/ankit-choubey`](https://github.com/ankit-choubey) |
+| **What** | Mesh-networked predictive hazard detection for industrial environments |
+| **Repo** | [github.com/ankit-choubey](https://github.com/ankit-choubey) |
 
 </details>
 
 <details>
 <summary><b>▶ DharmaShield-Env — AI Governance RL Research Environment</b></summary>
-
 <br/>
 
-Reinforcement learning environment for evaluating AI governance, policy compliance, and multi-agent safety.
-
-| Aspect | Detail |
-| :-- | :-- |
+| | |
+|:--|:--|
 | **Stack** | Python · FastAPI · LangChain · Hugging Face · Docker |
-| **Research** | AI governance policies encoded as RL reward structures |
-| **Safety** | Multi-agent compliance testing against ethical constraints |
-| **Impact** | Benchmark environment for AI safety research |
-| **Repo** | [`github.com/ankit-choubey`](https://github.com/ankit-choubey) |
+| **What** | RL env where AI governance policies become reward structures — safety benchmark |
+| **Repo** | [github.com/ankit-choubey](https://github.com/ankit-choubey) |
 
 </details>
 
 <details>
-<summary><b>▶ EDITH — Autonomous AI Assistant</b></summary>
-
+<summary><b>▶ Cross-Border Compliance Checker — IIT Bombay LogiTHON Top 25</b></summary>
 <br/>
 
-Autonomous AI assistant designed for intelligent reasoning, workflow automation, and productivity enhancement.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python · LLMs · LangGraph · FastAPI · RAG |
-| **Intelligence** | Autonomous reasoning chains, memory, tool use |
-| **Automation** | Workflow orchestration with multi-step task completion |
-| **Impact** | Personal AI layer — productivity amplifier |
-| **Repo** | [`github.com/ankit-choubey`](https://github.com/ankit-choubey) |
+| | |
+|:--|:--|
+| **Stack** | Python · FastAPI · OpenAI · React · PDF/QR |
+| **What** | AI export compliance tool — 21 product categories, QR-coded PDFs, bulk CSV. Built overnight. |
+| **Result** | 🏅 Top 25 out of 500+ teams at IIT Bombay LogiTHON 2025 |
 
 </details>
-
-<details>
-<summary><b>▶ ExportEase — IIT Bombay LogiTHON · AI Logistics Platform</b></summary>
-
-<br/>
-
-AI-powered export and logistics management platform — built for IIT Bombay LogiTHON to simplify international trade operations.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python · FastAPI · React · PostgreSQL |
-| **Built For** | IIT Bombay LogiTHON — Top 25 Finalist |
-| **Intelligence** | AI-driven export route optimization, compliance check |
-| **Impact** | Simplified international trade operations end-to-end |
-| **Repo** | [`github.com/ankit-choubey`](https://github.com/ankit-choubey) |
-
-</details>
-
----
-
-## `> echo $ACHIEVEMENTS`
-
-<div align="center">
-
-| 🏆 Hackathon / Competition | Position | 💰 Prize |
-| :-- | :-- | :-- |
-| **Zenith National Hackathon** | 🥈 1st Runner-up | **$1,500** |
-| **HackBIOS 2K25** | 🥇 Winner | **$564** |
-| **TechTatva Hackathon** | 🥇 Winner | **₹10,000 (~$120)** |
-| **IIT Bombay LogiTHON** | 🏅 Top 25 Finalist | — |
-| **Hack for Green** | 🏅 Top 25 Team | — |
-| **Tata Imagination Challenge** | 🎯 Semi-Finalist | Cleared Coding & Aptitude Rounds |
-
-</div>
-
----
-
-## `> git log --oneline /education`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/B.Tech%20Computer%20Science%20%26%20Engineering-SRM%20University%20AP-c40000?style=for-the-badge&logo=academia&logoColor=ffffff&labelColor=0a0008" alt="education"/>
-
-</div>
-
----
-
-## `> cat coding-profiles.sh`
-
-<div align="center">
-
-<a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-c40000?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=0a0008" alt="leetcode"/></a>
-<a href="https://www.geeksforgeeks.org/user/ankit-choubey/"><img src="https://img.shields.io/badge/GeeksforGeeks-c40000?style=for-the-badge&logo=geeksforgeeks&logoColor=ffffff&labelColor=0a0008" alt="gfg"/></a>
-
-</div>
 
 ---
 
@@ -288,12 +185,12 @@ AI-powered export and logistics management platform — built for IIT Bombay Log
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ankit-choubey&show_icons=true&count_private=true&hide_border=true&title_color=c40000&icon_color=ff4444&text_color=dddddd&bg_color=050508" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-choubey&hide_border=true&background=050508&stroke=c40000&ring=ff2200&fire=c40000&currStreakLabel=c40000&sideLabels=ff4444&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ankit-choubey&show_icons=true&count_private=true&hide_border=true&title_color=c8940a&icon_color=c85a1e&text_color=e8e0d0&bg_color=08060a" alt="stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-choubey&hide_border=true&background=08060a&stroke=c8940a&ring=c85a1e&fire=ff3311&currStreakLabel=c8940a&sideLabels=c85a1e&dates=786880&currStreakNum=e8e0d0&sideNums=e8e0d0" alt="streak"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-choubey&layout=compact&hide_border=true&langs_count=8&title_color=c40000&text_color=dddddd&bg_color=050508" alt="top-langs"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-choubey&layout=compact&hide_border=true&langs_count=8&title_color=c8940a&text_color=e8e0d0&bg_color=08060a" alt="top-langs"/>
 
 </div>
 
@@ -313,13 +210,13 @@ AI-powered export and logistics management platform — built for IIT Bombay Log
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-choubey&bg_color=050508&color=c40000&line=ff2200&point=ffffff&area=true&area_color=1a0000&hide_border=true" alt="activity-graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-choubey&bg_color=08060a&color=c8940a&line=c85a1e&point=e8e0d0&area=true&area_color=1a0008&hide_border=true" alt="activity"/>
 
 </div>
 
 ---
 
-## `> contribution-report --detailed`
+## `> contribution-report`
 
 <div align="center">
 
@@ -327,13 +224,13 @@ AI-powered export and logistics management platform — built for IIT Bombay Log
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit-choubey&theme=2077" alt="repos-per-language"/>&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankit-choubey&theme=2077" alt="most-commit-language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit-choubey&theme=2077" alt="repos"/>&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankit-choubey&theme=2077" alt="commits"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit-choubey&theme=2077" alt="stats-card"/>&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankit-choubey&theme=2077&utcOffset=+5.5" alt="productive-time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit-choubey&theme=2077" alt="stats"/>&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankit-choubey&theme=2077&utcOffset=+5.5" alt="time"/>
 
 </div>
 
@@ -358,20 +255,25 @@ learning:
   - Real-time voice AI & low-latency LLM pipelines
 
 building:
-  - Aegis-Forge     # Multi-agent AI platform with voice
-  - DharmaShield    # RL env for AI governance & safety
+  - Aegis-Forge     # Multi-agent AI platform
+  - DharmaShield    # RL env for AI governance
   - EDITH           # Autonomous AI assistant
-
-research:
-  - Reinforcement learning for policy compliance
-  - Explainable AI in high-stakes financial domains
 
 open_to:
   - AI Research Collaborations
-  - Agentic AI Engineering Roles
-  - LLM / Backend Engineering Internships
-  - Hackathon Teams (AI / Systems)
+  - Agentic AI / Backend Engineering Internships
+  - Hackathon Teams
 ```
+
+---
+
+## `> sharingan --activate`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/sharingan.svg" width="120" alt="sharingan"/>
+
+</div>
 
 ---
 
@@ -379,10 +281,10 @@ open_to:
 
 <div align="center">
 
-<a href="https://github.com/ankit-choubey"><img src="https://img.shields.io/badge/GitHub-c40000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0008" alt="github"/></a>
-<a href="https://www.linkedin.com/in/theankitchoubey"><img src="https://img.shields.io/badge/LinkedIn-c40000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0a0008" alt="linkedin"/></a>
-<a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-c40000?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=0a0008" alt="leetcode"/></a>
-<a href="mailto:ankitkumarchoubey0909@gmail.com"><img src="https://img.shields.io/badge/Gmail-c40000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0a0008" alt="gmail"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-c85a1e?style=for-the-badge&logo=github&logoColor=fff&labelColor=08060a)](https://github.com/ankit-choubey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c8940a?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=08060a)](https://www.linkedin.com/in/theankitchoubey)
+[![LeetCode](https://img.shields.io/badge/LeetCode-c85a1e?style=for-the-badge&logo=leetcode&logoColor=fff&labelColor=08060a)](https://leetcode.com/u/TheCodeHashira/)
+[![Email](https://img.shields.io/badge/Email-c8940a?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=08060a)](mailto:ankitkumarchoubey0909@gmail.com)
 
 </div>
 
@@ -394,6 +296,6 @@ open_to:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050508,100:1a0000&fontColor=c40000" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:08060a,100:1a0008" alt="footer"/>
 
 </div>

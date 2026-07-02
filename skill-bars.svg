@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 290" width="700" height="290">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#6a0818"/><stop offset="100%" stop-color="#c85a1e"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#c8940a"/><stop offset="100%" stop-color="#e8c860"/></linearGradient>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#2d1650"/><stop offset="100%" stop-color="#4a2880"/></linearGradient>
+    <style>
+      rect{shape-rendering:crispEdges;}
+      .bg{fill:#08060a;}
+      .track{fill:rgba(255,255,255,0.05);}
+      .bar{animation:grow 1.4s cubic-bezier(.16,1,.3,1) forwards;}
+      .b0{animation-delay:0.0s;} .b1{animation-delay:0.12s;} .b2{animation-delay:0.24s;}
+      .b3{animation-delay:0.36s;} .b4{animation-delay:0.48s;} .b5{animation-delay:0.60s;}
+      @keyframes grow{from{transform:scaleX(0);}to{transform:scaleX(1);}}
+      .lbl{font-family:'Courier New',monospace;font-size:12px;fill:#c8bfc0;}
+      .pct{font-family:'Courier New',monospace;font-size:10px;fill:#786880;}
+      .hdr{font-family:'Courier New',monospace;font-size:10px;letter-spacing:3px;fill:#c85a1e;text-transform:uppercase;}
+    </style>
+  </defs>
+  <rect class="bg" width="700" height="290" rx="6"/>
+  <rect x="0" y="0" width="3" height="290" fill="#c85a1e" rx="1"/>
+  <text class="hdr" x="16" y="28">$ cat power-levels.txt</text>
+  <text class="lbl" x="16" y="58">Python / ML</text>
+  <rect class="track" x="180" y="48" width="460" height="7" rx="3"/>
+  <rect class="bar b0" x="180" y="48" width="414" height="7" rx="3" fill="url(#f)" style="transform-origin:180px 52px"/>
+  <text class="pct" x="650" y="58">90%</text>
+  <text class="lbl" x="16" y="96">React / Next.js</text>
+  <rect class="track" x="180" y="86" width="460" height="7" rx="3"/>
+  <rect class="bar b1" x="180" y="86" width="377" height="7" rx="3" fill="url(#g)" style="transform-origin:180px 90px"/>
+  <text class="pct" x="650" y="96">82%</text>
+  <text class="lbl" x="16" y="134">Agentic AI</text>
+  <rect class="track" x="180" y="124" width="460" height="7" rx="3"/>
+  <rect class="bar b2" x="180" y="124" width="359" height="7" rx="3" fill="url(#f)" style="transform-origin:180px 128px"/>
+  <text class="pct" x="650" y="134">78%</text>
+  <text class="lbl" x="16" y="172">Reinforcement Learning</text>
+  <rect class="track" x="180" y="162" width="460" height="7" rx="3"/>
+  <rect class="bar b3" x="180" y="162" width="331" height="7" rx="3" fill="url(#w)" style="transform-origin:180px 166px"/>
+  <text class="pct" x="650" y="172">72%</text>
+  <text class="lbl" x="16" y="210">Node / FastAPI</text>
+  <rect class="track" x="180" y="200" width="460" height="7" rx="3"/>
+  <rect class="bar b4" x="180" y="200" width="368" height="7" rx="3" fill="url(#g)" style="transform-origin:180px 204px"/>
+  <text class="pct" x="650" y="210">80%</text>
+  <text class="lbl" x="16" y="248">Docker / DevOps</text>
+  <rect class="track" x="180" y="238" width="460" height="7" rx="3"/>
+  <rect class="bar b5" x="180" y="238" width="299" height="7" rx="3" fill="url(#w)" style="transform-origin:180px 242px"/>
+  <text class="pct" x="650" y="248">65%</text>
+</svg>

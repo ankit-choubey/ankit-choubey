@@ -1,51 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 120" width="860" height="120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280">
   <defs>
+    <linearGradient id="flameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c85a1e"/>
+      <stop offset="40%" stop-color="#c8940a"/>
+      <stop offset="100%" stop-color="#6a0818"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="50%" cy="55%" r="70%">
+      <stop offset="0%" stop-color="#150d20"/>
+      <stop offset="100%" stop-color="#08060a"/>
+    </radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="softglow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&amp;display=swap');
-      .bg { fill: #050508; }
-      .line1 { fill: #c40000; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700;
-        animation: fadeSlide 0.6s ease forwards; opacity: 0; animation-delay: 0.1s; }
-      .line2 { fill: #ff4444; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700;
-        animation: fadeSlide 0.6s ease forwards; opacity: 0; animation-delay: 0.4s; }
-      .line3 { fill: #ffffff; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700;
-        animation: fadeSlide 0.6s ease forwards; opacity: 0; animation-delay: 0.7s; }
-      .line4 { fill: #888888; font-family: 'JetBrains Mono', monospace; font-size: 11px;
-        animation: fadeSlide 0.6s ease forwards; opacity: 0; animation-delay: 1.0s; }
-      .cursor {
-        fill: #c40000;
-        animation: blink 1s step-end infinite;
-      }
-      .scanline {
-        fill: none;
-        stroke: rgba(196,0,0,0.08);
-        stroke-width: 1;
-        animation: scan 4s linear infinite;
-      }
-      @keyframes fadeSlide {
-        from { opacity: 0; transform: translateX(-8px); }
-        to   { opacity: 1; transform: translateX(0); }
-      }
-      @keyframes blink {
-        0%, 100% { opacity: 1; }
-        50%       { opacity: 0; }
-      }
-      @keyframes scan {
-        0%   { transform: translateY(-120px); }
-        100% { transform: translateY(240px); }
-      }
+      .name { font-family: 'Segoe UI', Arial, sans-serif; font-size: 62px; font-weight: 900; letter-spacing: 8px; fill: url(#flameGrad); filter: url(#glow); opacity: 0; animation: rise 1s ease forwards 0.15s; }
+      .handle { font-family: 'Courier New', monospace; font-size: 22px; letter-spacing: 7px; fill: #c8940a; filter: url(#softglow); opacity: 0; animation: rise 0.9s ease forwards 0.6s; }
+      .tag { font-family: 'Courier New', monospace; font-size: 13px; letter-spacing: 2.5px; fill: #786880; opacity: 0; animation: rise 0.8s ease forwards 1.0s; }
+      .tag2 { font-family: 'Courier New', monospace; font-size: 12px; letter-spacing: 2px; fill: #a0506a; opacity: 0; animation: rise 0.8s ease forwards 1.25s; }
+      .cursor { fill: #c85a1e; animation: blink 1s step-end infinite 1.5s; opacity: 0; }
+      .kanji { font-family: serif; font-size: 180px; font-weight: 700; fill: rgba(106,8,24,0.12); }
+      .scan { fill: none; stroke: rgba(200,148,10,0.07); stroke-width: 1; animation: scan 6s linear infinite; }
+      .ember { fill: #e06030; animation: ember 5s ease-in-out infinite; }
+      .e1 { animation-delay: 0s; cx: 80px; cy: 250px; r: 2.5px; }
+      .e2 { animation-delay: -1.7s; fill: #c8940a; }
+      .e3 { animation-delay: -3.1s; }
+      .e4 { animation-delay: -0.8s; fill: #c8940a; }
+      .leftbar { animation: barPulse 3s ease-in-out infinite; }
+      @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes blink { 0%,100%{opacity:1;} 50%{opacity:0;} }
+      @keyframes scan { 0%{transform:translateY(-280px);} 100%{transform:translateY(280px);} }
+      @keyframes ember { 0%,100%{opacity:0.1;transform:translateY(0) scale(1);} 50%{opacity:0.9;transform:translateY(-55px) scale(1.4);} }
+      @keyframes barPulse { 0%,100%{opacity:0.7;} 50%{opacity:1;} }
     </style>
   </defs>
-  <!-- background -->
-  <rect class="bg" width="860" height="120" rx="8"/>
-  <!-- left red bar accent -->
-  <rect x="0" y="0" width="3" height="120" fill="#c40000" rx="2"/>
-  <!-- scan line overlay -->
-  <line class="scanline" x1="0" y1="0" x2="860" y2="0"/>
-  <!-- content lines -->
-  <text class="line1" x="20" y="28">  ██████╗ ██████╗ ██████╗ ███████╗    ██╗  ██╗ █████╗ ███████╗██╗  ██╗██╗██████╗  █████╗ </text>
-  <text class="line2" x="20" y="52">  &gt;_ ANKIT CHOUBEY  ·  AI/ML Engineer  ·  Agentic AI &amp; LLM Systems  ·  SRM University AP</text>
-  <text class="line3" x="20" y="76">  $ whoami → Builder of intelligent systems  ·  3× Hackathon Winner  ·  AI Safety Researcher</text>
-  <text class="line4" x="20" y="100">  Aegis-Forge  ·  TriNetra  ·  SurakshaMesh  ·  DharmaShield  ·  EDITH  ·  ExportEase</text>
-  <!-- blinking cursor -->
-  <rect class="cursor" x="20" y="106" width="8" height="2" rx="1"/>
+  <rect width="1000" height="280" fill="url(#bgGlow)"/>
+  <text class="kanji" x="620" y="240">焔</text>
+  <line class="scan" x1="0" y1="0" x2="1000" y2="0"/>
+  <rect class="leftbar" x="0" y="0" width="4" height="280" fill="#c85a1e" rx="2"/>
+  <circle class="ember e1" cx="100" cy="255" r="2.5"/>
+  <circle class="ember e2" cx="880" cy="240" r="2"/>
+  <circle class="ember e3" cx="940" cy="90" r="1.8"/>
+  <circle class="ember e4" cx="55" cy="120" r="2.2"/>
+  <circle class="ember" cx="750" cy="260" r="1.5" style="animation-delay:-2.3s;fill:#c85a1e"/>
+  <text class="name" x="48" y="108">ANKIT CHOUBEY</text>
+  <text class="handle" x="50" y="152">CodeHashiraX</text>
+  <text class="tag" x="50" y="185">AI/ML Engineer  •  Agentic Systems  •  SRM University AP  •  CSE 2nd Year</text>
+  <text class="tag2" x="50" y="208">$ whoami → Builder of intelligent systems that think, plan and act</text>
+  <rect class="cursor" x="50" y="217" width="12" height="3" rx="1"/>
 </svg>
