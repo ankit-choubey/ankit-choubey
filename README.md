@@ -8,21 +8,22 @@
 <!-- ═══════════════════════════════════════════════════════════════
      HERO BANNER
 ════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=200&color=0:050508,50:1a0000,100:050508&fontColor=ffffff&text=%3E_%20ANKIT%20CHOUBEY&fontSize=40&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20LLMs%20%E2%80%A2%20Backend%20Engineering&descSize=14&descColor=c40000&descAlignY=63&animation=fadeIn&stroke=c40000&strokeWidth=1" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0:050508,50:1a0000,100:050508&fontColor=ffffff&text=%3E_%20ANKIT%20CHOUBEY&fontSize=42&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%26%20LLM%20Systems%20%E2%80%A2%20Researcher%20%E2%80%A2%20Hackathon%20Builder&descSize=15&descColor=c40000&descAlignY=63&animation=fadeIn&stroke=c40000&strokeWidth=1" alt="banner"/>
 
 <!-- ═══════════════════════════════════════════════════════════════
      TYPING SVG
 ════════════════════════════════════════════════════════════════ -->
 <a href="https://github.com/ankit-choubey">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=900&color=C40000&center=true&vCenter=true&width=860&lines=%24+whoami+%E2%86%92+AI+Engineer+%7C+SRM+University+AP+%7C+3rd+Year+CSE;%24+focus+%E2%86%92+Agentic+AI+%7C+LLMs+%7C+RAG+%7C+Multi-Agent+Systems;%24+building+%E2%86%92+Autonomous+Agents+that+think%2C+plan+%26+act;%24+research+%E2%86%92+AI+Governance+%7C+Reinforcement+Learning+%7C+NLP;%24+IIT+Bombay+LogiTHON+%E2%86%92+ExportEase+%7C+AI+Logistics+Platform" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=900&color=C40000&center=true&vCenter=true&width=860&lines=%24+whoami+%E2%86%92+AI%2FML+Engineer+%7C+SRM+University+AP+%7C+3rd+Year+CSE;%24+focus+%E2%86%92+Agentic+AI+%7C+LLMs+%7C+RAG+%7C+Multi-Agent+Systems;%24+wins+%E2%86%92+%F0%9F%8F%86+HackBIOS+%24564+%7C+TechTatva+%E2%82%B910K+%7C+%F0%9F%A5%88+Zenith+%241%2C500;%24+building+%E2%86%92+Aegis-Forge+%7C+TriNetra+%7C+SurakshaMesh+%7C+DharmaShield+%7C+EDITH;%24+research+%E2%86%92+AI+Governance+%7C+Reinforcement+Learning+%7C+Explainable+AI" alt="typing"/>
 </a>
 
 <br/>
 
 <!-- badges -->
 <img src="https://img.shields.io/badge/B.Tech%20CSE-SRM%20University%20AP-c40000?style=flat-square&labelColor=0a0008&color=1a0000&logo=graduation-cap&logoColor=c40000" alt="degree"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_Hackathon_Builder-2_Wins_%7C_1_Runner--up_%7C_2_Finalists-c40000?style=flat-square&labelColor=0a0008" alt="wins"/>
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_India-1a0000?style=flat-square&labelColor=0a0008&logoColor=c40000" alt="location"/>
-<img src="https://img.shields.io/badge/Open%20To-Research%20%26%20Collabs-c40000?style=flat-square&labelColor=0a0008" alt="open"/>
+<img src="https://img.shields.io/badge/Open%20To-Research%20%26%20AI%20Roles-c40000?style=flat-square&labelColor=0a0008" alt="open"/>
 
 <br/><br/>
 
@@ -30,6 +31,7 @@
 <a href="https://github.com/ankit-choubey"><img src="https://img.shields.io/badge/GitHub-c40000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0008" alt="github"/></a>
 <a href="https://www.linkedin.com/in/theankitchoubey"><img src="https://img.shields.io/badge/LinkedIn-c40000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0a0008" alt="linkedin"/></a>
 <a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-c40000?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=0a0008" alt="leetcode"/></a>
+<a href="mailto:ankitkumarchoubey0909@gmail.com"><img src="https://img.shields.io/badge/Email-c40000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0a0008" alt="email"/></a>
 
 <br/><br/>
 
@@ -47,16 +49,15 @@
 ```bash
 $ cat .profile
 
-ROLE        =  AI Engineer & Builder
-FOCUS       =  Agentic AI  |  LLMs  |  RAG  |  Multi-Agent Systems
-RESEARCH    =  AI Governance  |  Reinforcement Learning  |  NLP
-BUILDING    =  Autonomous reasoning agents that think, plan & act
-HACKATHON   =  IIT Bombay LogiTHON — ExportEase (AI Logistics)
-LOCATION    =  India
-OPEN_TO     =  Research Collaborations  |  AI Engineering Roles
+ROLE        =  AI/ML Engineer | Agentic AI & LLM Systems
+FOCUS       =  Multi-Agent Orchestration | Explainable AI | RL Environments
+RESEARCH    =  AI Governance | Policy Compliance | Safety Systems
+HACKATHONS  =  🏆 HackBIOS $564 | 🏆 TechTatva ₹10K | 🥈 Zenith $1,500 | 🏅 IIT Bombay
+BUILDING    =  Aegis-Forge | TriNetra | SurakshaMesh | DharmaShield-Env | EDITH
+OPEN_TO     =  AI Research Roles | ML Engineering | Agentic Systems
 ```
 
-> *"I don't just train models — I build systems that reason."*
+> *"I don't just train models — I build systems that reason, plan, and act."*
 
 ---
 
@@ -74,7 +75,7 @@ OPEN_TO     =  Research Collaborations  |  AI Engineering Roles
 
 **[ Backend & Data ]**
 
-<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,postgres,mongodb,redis&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,react,postgres,mongodb,redis&theme=dark" alt="backend"/>
 
 **[ Cloud, DevOps & Infra ]**
 
@@ -90,10 +91,13 @@ OPEN_TO     =  Research Collaborations  |  AI Engineering Roles
 ![LangGraph](https://img.shields.io/badge/LangGraph-c40000?style=flat-square&labelColor=0a0008)
 ![OpenAI](https://img.shields.io/badge/OpenAI-c40000?style=flat-square&logo=openai&logoColor=fff&labelColor=0a0008)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-c40000?style=flat-square&logo=huggingface&logoColor=fff&labelColor=0a0008)
+![Groq](https://img.shields.io/badge/Groq%20API-c40000?style=flat-square&labelColor=0a0008)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-c40000?style=flat-square&labelColor=0a0008)
 ![RLHF](https://img.shields.io/badge/RLHF%20%2F%20RL-c40000?style=flat-square&labelColor=0a0008)
-![VectorDB](https://img.shields.io/badge/Vector%20DBs-c40000?style=flat-square&labelColor=0a0008)
+![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-c40000?style=flat-square&labelColor=0a0008)
 ![MCP](https://img.shields.io/badge/MCP%20Protocol-c40000?style=flat-square&labelColor=0a0008)
+![LiveKit](https://img.shields.io/badge/LiveKit-c40000?style=flat-square&labelColor=0a0008)
+![Deepgram](https://img.shields.io/badge/Deepgram-c40000?style=flat-square&labelColor=0a0008)
 
 </div>
 
@@ -106,8 +110,9 @@ OPEN_TO     =  Research Collaborations  |  AI Engineering Roles
 | **Agentic AI** | `█████ Expert` | Multi-agent orchestration, autonomous decision-making, tool use |
 | **LLMs & RAG** | `█████ Expert` | Retrieval pipelines, prompt engineering, fine-tuning, evals |
 | **RL / AI Governance** | `████▓ Senior` | Policy-driven RL environments, compliance, safety frameworks |
+| **Explainable AI** | `████▓ Senior` | SHAP, LIME, transparent decisions in high-stakes domains |
 | **Backend Engineering** | `████▓ Senior` | FastAPI, Spring Boot, REST APIs, microservices |
-| **ML / Deep Learning** | `████░ Mid-Senior` | PyTorch, CNNs, NLP, explainability (XAI) |
+| **ML / Deep Learning** | `████░ Mid-Senior` | PyTorch, CNNs, NLP, XGBoost, LightGBM |
 | **Cloud & DevOps** | `███░░ Mid` | AWS, Docker, Kubernetes, CI/CD |
 
 ---
@@ -137,16 +142,16 @@ OPEN_TO     =  Research Collaborations  |  AI Engineering Roles
 ## `> ls /projects --sort=impact`
 
 <details open>
-<summary><b>▶ Aegis-Forge — Multi-Agent Coordinated AI System</b></summary>
+<summary><b>▶ Aegis-Forge — Multi-Agent Coordinated AI Platform</b></summary>
 
 <br/>
 
-Real-time multi-agent AI system for coordinated reasoning, voice interaction, and autonomous decision-making.
+Multi-agent AI platform enabling real-time reasoning, voice interaction, and coordinated autonomous decision-making.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python · LangGraph · OpenAI · FastAPI · WebSockets |
-| **Scale** | Multi-agent orchestration with real-time coordination |
+| **Stack** | Python · FastAPI · LangChain · LiveKit · Deepgram · Groq API · Docker |
+| **Scale** | Multi-agent orchestration with real-time voice coordination |
 | **Intelligence** | Autonomous task decomposition, agent handoffs, tool calling |
 | **Voice** | Real-time voice interaction layer with STT/TTS pipeline |
 | **Impact** | Coordinated reasoning across specialized agents |
@@ -159,14 +164,13 @@ Real-time multi-agent AI system for coordinated reasoning, voice interaction, an
 
 <br/>
 
-Explainable AI-powered credit intelligence platform for fraud detection, risk assessment, and financial insights.
+Explainable AI credit intelligence system for fraud detection, financial risk analysis, and transparent decision support.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python · XGBoost · SHAP · FastAPI · PostgreSQL |
+| **Stack** | Python · FastAPI · XGBoost · LightGBM · SHAP · LIME · Redis · Supabase · WebSockets |
 | **Scale** | Real-time fraud scoring on financial transaction streams |
-| **XAI** | SHAP-based explainability — humans understand every decision |
-| **Risk** | Multi-dimensional risk scoring with confidence intervals |
+| **XAI** | SHAP/LIME explainability — humans understand every decision |
 | **Impact** | Transparent AI decisions for regulated financial environments |
 | **Repo** | [`github.com/ankit-choubey`](https://github.com/ankit-choubey) |
 
@@ -177,29 +181,28 @@ Explainable AI-powered credit intelligence platform for fraud detection, risk as
 
 <br/>
 
-AI-driven worker safety platform leveraging IoT, mesh networking, and predictive hazard detection for industrial environments.
+AI-powered industrial worker safety platform using IoT, mesh networking, and predictive hazard detection.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python · PyTorch · MQTT · IoT · FastAPI · Redis |
+| **Stack** | Python · Node.js · React · MongoDB · IoT · BLE/LoRa Simulation |
 | **Scale** | Mesh-networked sensor nodes with real-time hazard prediction |
-| **Detection** | Predictive hazard ML models trained on industrial sensor data |
-| **Alerts** | Sub-second alert propagation across mesh network |
+| **Detection** | Predictive hazard ML models on industrial sensor data |
 | **Impact** | Proactive safety — prevent incidents before they happen |
 | **Repo** | [`github.com/ankit-choubey`](https://github.com/ankit-choubey) |
 
 </details>
 
 <details>
-<summary><b>▶ DharmaShield-Env — AI Governance RL Environment</b></summary>
+<summary><b>▶ DharmaShield-Env — AI Governance RL Research Environment</b></summary>
 
 <br/>
 
-Policy-driven reinforcement learning environment for evaluating AI governance, compliance, and safety in multi-agent systems.
+Reinforcement learning environment for evaluating AI governance, policy compliance, and multi-agent safety.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python · OpenAI Gym · Ray RLlib · Custom Env |
+| **Stack** | Python · FastAPI · LangChain · Hugging Face · Docker |
 | **Research** | AI governance policies encoded as RL reward structures |
 | **Safety** | Multi-agent compliance testing against ethical constraints |
 | **Impact** | Benchmark environment for AI safety research |
@@ -208,15 +211,15 @@ Policy-driven reinforcement learning environment for evaluating AI governance, c
 </details>
 
 <details>
-<summary><b>▶ EDITH — Intelligent AI Assistant</b></summary>
+<summary><b>▶ EDITH — Autonomous AI Assistant</b></summary>
 
 <br/>
 
-Intelligent AI assistant focused on autonomous reasoning, workflow automation, and productivity enhancement.
+Autonomous AI assistant designed for intelligent reasoning, workflow automation, and productivity enhancement.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python · LangChain · OpenAI · FastAPI · React |
+| **Stack** | Python · LLMs · LangGraph · FastAPI · RAG |
 | **Intelligence** | Autonomous reasoning chains, memory, tool use |
 | **Automation** | Workflow orchestration with multi-step task completion |
 | **Impact** | Personal AI layer — productivity amplifier |
@@ -229,12 +232,12 @@ Intelligent AI assistant focused on autonomous reasoning, workflow automation, a
 
 <br/>
 
-AI-powered logistics and export management platform — built for IIT Bombay LogiTHON to simplify international trade operations.
+AI-powered export and logistics management platform — built for IIT Bombay LogiTHON to simplify international trade operations.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python · FastAPI · React · PostgreSQL · OpenAI |
-| **Built For** | IIT Bombay LogiTHON — hackathon challenge |
+| **Stack** | Python · FastAPI · React · PostgreSQL |
+| **Built For** | IIT Bombay LogiTHON — Top 25 Finalist |
 | **Intelligence** | AI-driven export route optimization, compliance check |
 | **Impact** | Simplified international trade operations end-to-end |
 | **Repo** | [`github.com/ankit-choubey`](https://github.com/ankit-choubey) |
@@ -247,14 +250,14 @@ AI-powered logistics and export management platform — built for IIT Bombay Log
 
 <div align="center">
 
-| Win | Detail |
-| :-- | :-- |
-| ▮ **IIT Bombay LogiTHON** | Built ExportEase — AI logistics platform for international trade |
-| ▮ **Multi-Agent Systems** | Aegis-Forge: real-time coordinated reasoning across agents |
-| ▮ **AI Safety Research** | DharmaShield-Env: RL environment for AI governance & compliance |
-| ▮ **Explainable AI** | TriNetra: transparent fraud detection in financial systems |
-| ▮ **Industrial AI** | SurakshaMesh: predictive hazard detection at worker-level |
-| ▮ **Solo Builder** | 6 full-stack AI systems built from scratch |
+| 🏆 Hackathon / Competition | Position | 💰 Prize |
+| :-- | :-- | :-- |
+| **Zenith National Hackathon** | 🥈 1st Runner-up | **$1,500** |
+| **HackBIOS 2K25** | 🥇 Winner | **$564** |
+| **TechTatva Hackathon** | 🥇 Winner | **₹10,000 (~$120)** |
+| **IIT Bombay LogiTHON** | 🏅 Top 25 Finalist | — |
+| **Hack for Green** | 🏅 Top 25 Team | — |
+| **Tata Imagination Challenge** | 🎯 Semi-Finalist | Cleared Coding & Aptitude Rounds |
 
 </div>
 
@@ -265,6 +268,17 @@ AI-powered logistics and export management platform — built for IIT Bombay Log
 <div align="center">
 
 <img src="https://img.shields.io/badge/B.Tech%20Computer%20Science%20%26%20Engineering-SRM%20University%20AP-c40000?style=for-the-badge&logo=academia&logoColor=ffffff&labelColor=0a0008" alt="education"/>
+
+</div>
+
+---
+
+## `> cat coding-profiles.sh`
+
+<div align="center">
+
+<a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-c40000?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=0a0008" alt="leetcode"/></a>
+<a href="https://www.geeksforgeeks.org/user/ankit-choubey/"><img src="https://img.shields.io/badge/GeeksforGeeks-c40000?style=for-the-badge&logo=geeksforgeeks&logoColor=ffffff&labelColor=0a0008" alt="gfg"/></a>
 
 </div>
 
@@ -340,16 +354,17 @@ AI-powered logistics and export management platform — built for IIT Bombay Log
 ```yaml
 learning:
   - Multi-agent orchestration & emergent reasoning
-  - AI safety alignment & governance frameworks
-  - Low-latency LLM inference pipelines
+  - RL-based AI governance & policy compliance
+  - Real-time voice AI & low-latency LLM pipelines
 
 building:
-  - Aegis-Forge   # Coordinated multi-agent AI platform
-  - DharmaShield  # AI governance RL research environment
+  - Aegis-Forge     # Multi-agent AI platform with voice
+  - DharmaShield    # RL env for AI governance & safety
+  - EDITH           # Autonomous AI assistant
 
 research:
   - Reinforcement learning for policy compliance
-  - Explainable AI in high-stakes domains
+  - Explainable AI in high-stakes financial domains
 
 open_to:
   - AI Research Collaborations
@@ -367,6 +382,7 @@ open_to:
 <a href="https://github.com/ankit-choubey"><img src="https://img.shields.io/badge/GitHub-c40000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0008" alt="github"/></a>
 <a href="https://www.linkedin.com/in/theankitchoubey"><img src="https://img.shields.io/badge/LinkedIn-c40000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0a0008" alt="linkedin"/></a>
 <a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-c40000?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=0a0008" alt="leetcode"/></a>
+<a href="mailto:ankitkumarchoubey0909@gmail.com"><img src="https://img.shields.io/badge/Gmail-c40000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0a0008" alt="gmail"/></a>
 
 </div>
 
@@ -374,7 +390,7 @@ open_to:
 
 <div align="center">
 
-<sub><i>// by day: engineering AI systems &nbsp;|&nbsp; by night: building agents that think</i></sub>
+<sub><i>// by day: engineering AI systems &nbsp;|&nbsp; by night: winning hackathons & building agents that think</i></sub>
 
 <br/><br/>
 
