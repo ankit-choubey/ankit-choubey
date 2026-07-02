@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <style>
+      .outer-ring {
+        fill: none;
+        stroke: #c40000;
+        stroke-width: 3;
+        animation: pulse 2s ease-in-out infinite;
+        filter: drop-shadow(0 0 12px #ff0000);
+      }
+      .tomoe {
+        animation: rotateTomoe 4s linear infinite;
+        transform-origin: 100px 100px;
+      }
+      .tomoe2 { animation-delay: -1.33s; }
+      .tomoe3 { animation-delay: -2.66s; }
+      .inner-glow {
+        fill: none;
+        stroke: #ff2200;
+        stroke-width: 1.5;
+        opacity: 0.6;
+        animation: pulse 1.5s ease-in-out infinite alternate;
+      }
+      .ring2 {
+        fill: none;
+        stroke: #c40000;
+        stroke-width: 1;
+        opacity: 0.4;
+        animation: counter 6s linear infinite;
+        transform-origin: 100px 100px;
+      }
+      @keyframes rotateTomoe {
+        from { transform: rotate(0deg); }
+        to   { transform: rotate(360deg); }
+      }
+      @keyframes counter {
+        from { transform: rotate(360deg); }
+        to   { transform: rotate(0deg); }
+      }
+      @keyframes pulse {
+        0%,100% { opacity: 1; }
+        50%     { opacity: 0.45; }
+      }
+    </style>
+    <radialGradient id="irisGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#cc0000"/>
+      <stop offset="60%"  stop-color="#8b0000"/>
+      <stop offset="100%" stop-color="#3a0000"/>
+    </radialGradient>
+    <radialGradient id="pupilGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#1a001a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="200" height="200" fill="#050508" rx="100"/>
+  <circle class="outer-ring" cx="100" cy="100" r="90" filter="url(#glow)"/>
+  <circle class="ring2" cx="100" cy="100" r="80" stroke-dasharray="8 4"/>
+  <circle cx="100" cy="100" r="70" fill="url(#irisGrad)" filter="url(#glow)"/>
+  <circle class="inner-glow" cx="100" cy="100" r="55"/>
+  <g class="tomoe">
+    <ellipse cx="100" cy="58" rx="8" ry="12" fill="#0a0008" stroke="#c40000" stroke-width="0.8"/>
+    <circle  cx="100" cy="48" r="7" fill="#0a0008" stroke="#c40000" stroke-width="0.8"/>
+  </g>
+  <g class="tomoe tomoe2">
+    <ellipse cx="100" cy="58" rx="8" ry="12" fill="#0a0008" stroke="#c40000" stroke-width="0.8" transform="rotate(120 100 100)"/>
+    <circle  cx="100" cy="48" r="7" fill="#0a0008" stroke="#c40000" stroke-width="0.8" transform="rotate(120 100 100)"/>
+  </g>
+  <g class="tomoe tomoe3">
+    <ellipse cx="100" cy="58" rx="8" ry="12" fill="#0a0008" stroke="#c40000" stroke-width="0.8" transform="rotate(240 100 100)"/>
+    <circle  cx="100" cy="48" r="7" fill="#0a0008" stroke="#c40000" stroke-width="0.8" transform="rotate(240 100 100)"/>
+  </g>
+  <circle cx="100" cy="100" r="28" fill="url(#pupilGrad)"/>
+  <circle cx="110" cy="90" r="5" fill="white" opacity="0.12"/>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" height="120">
+  <defs>
+    <style>
+      .bg { fill: #050508; }
+      .cut-left {
+        fill: #050508;
+        animation: cutLeft 3.2s cubic-bezier(0.77,0,0.18,1) forwards;
+      }
+      .cut-right {
+        fill: #050508;
+        animation: cutRight 3.2s cubic-bezier(0.77,0,0.18,1) forwards;
+      }
+      .glow-line {
+        stroke: #c40000;
+        stroke-width: 2;
+        opacity: 0;
+        animation: glowIn 0.4s ease 1.4s forwards, glowPulse 1.8s ease-in-out 1.8s infinite;
+        filter: drop-shadow(0 0 8px #ff0000) drop-shadow(0 0 20px #c40000);
+      }
+      .title-text {
+        fill: #ffffff;
+        font-family: 'Courier New', monospace;
+        font-size: 28px;
+        font-weight: 700;
+        letter-spacing: 8px;
+        opacity: 0;
+        animation: fadeTitle 0.8s ease 1.6s forwards;
+      }
+      .sub-text {
+        fill: #c40000;
+        font-family: 'Courier New', monospace;
+        font-size: 10px;
+        letter-spacing: 4px;
+        opacity: 0;
+        animation: fadeTitle 0.8s ease 2.0s forwards;
+      }
+      .breath-rect {
+        fill: none;
+        stroke: #c40000;
+        stroke-width: 1;
+        opacity: 0;
+        animation: fadeTitle 0.5s ease 2.2s forwards, breathe 3s ease-in-out 2.7s infinite;
+        filter: drop-shadow(0 0 6px #c40000);
+      }
+      @keyframes cutLeft {
+        0%   { transform: translateX(0); }
+        60%  { transform: translateX(0); }
+        100% { transform: translateX(-460px); }
+      }
+      @keyframes cutRight {
+        0%   { transform: translateX(0); }
+        60%  { transform: translateX(0); }
+        100% { transform: translateX(460px); }
+      }
+      @keyframes glowIn {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+      @keyframes glowPulse {
+        0%,100% { opacity: 1; stroke-width: 2; }
+        50%     { opacity: 0.3; stroke-width: 0.5; }
+      }
+      @keyframes fadeTitle {
+        from { opacity: 0; transform: translateY(6px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes breathe {
+        0%,100% { transform: scale(1); }
+        50%     { transform: scale(1.015); }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="900" height="120"/>
+  <line class="glow-line" x1="0" y1="60" x2="900" y2="60"/>
+  <text class="title-text" x="450" y="52" text-anchor="middle">ANKIT CHOUBEY</text>
+  <text class="sub-text"   x="450" y="72" text-anchor="middle">AI ENGINEER  ·  SRM UNIVERSITY AP  ·  BUILDING WHAT MATTERS</text>
+  <rect class="breath-rect" x="30" y="10" width="840" height="100" rx="4" ry="4"/>
+  <rect class="cut-left"  x="0"   y="0" width="450" height="120"/>
+  <rect class="cut-right" x="450" y="0" width="450" height="120"/>
+</svg>
