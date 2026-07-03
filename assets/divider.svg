@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0A0A0A;stop-opacity:1"/>
+      <stop offset="15%" style="stop-color:#D97706;stop-opacity:0.6"/>
+      <stop offset="50%" style="stop-color:#FBBF24;stop-opacity:1"/>
+      <stop offset="85%" style="stop-color:#991B1B;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#0A0A0A;stop-opacity:1"/>
+    </linearGradient>
+    <filter id="lineGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="24" fill="#0A0A0A"/>
+  <!-- Main glow line -->
+  <line x1="0" y1="12" x2="1200" y2="12" stroke="url(#divGrad)" stroke-width="1.2" filter="url(#lineGlow)"/>
+  <!-- Subtle second line -->
+  <line x1="0" y1="14" x2="1200" y2="14" stroke="url(#divGrad)" stroke-width="0.4" opacity="0.3"/>
+  <!-- Center diamond -->
+  <polygon points="600,7 605,12 600,17 595,12" fill="#D97706" opacity="0.9"/>
+  <!-- Flanking dots -->
+  <circle cx="540" cy="12" r="1.5" fill="#D97706" opacity="0.6"/>
+  <circle cx="660" cy="12" r="1.5" fill="#991B1B" opacity="0.6"/>
+  <circle cx="480" cy="12" r="1" fill="#FBBF24" opacity="0.4"/>
+  <circle cx="720" cy="12" r="1" fill="#FBBF24" opacity="0.4"/>
+</svg>
