@@ -27,31 +27,13 @@
 
 <div align="center">
 
+<img width="100%" src="./assets/battle-record.svg" alt="battle record"/>
+
 <table>
 <tr>
 <th>Metric</th>
 <th>Value</th>
 <th>Meaning</th>
-</tr>
-<tr>
-<td>Competition wins</td>
-<td>5×</td>
-<td>Repeated placement across national and university-level events</td>
-</tr>
-<tr>
-<td>National finalist appearances</td>
-<td>6×</td>
-<td>Consistent validation in high-stakes innovation tracks</td>
-</tr>
-<tr>
-<td>Prize value</td>
-<td>~$2,304</td>
-<td>Measured outcome from competition runs</td>
-</tr>
-<tr>
-<td>AI systems built</td>
-<td>6+</td>
-<td>Agentic systems, RAG products, and backend AI workflows</td>
 </tr>
 <tr>
 <td>Research projects</td>
@@ -250,16 +232,18 @@ open_to:
 
 <div align="center">
 
-<img width="100%" src="./assets/tech-stack.svg" alt="tech stack"/>
-
 <table>
 <tr>
-<td><b>Languages</b><br/>Python · C++ · JavaScript · SQL · Bash</td>
-<td><b>AI / ML</b><br/>PyTorch · TensorFlow · LangChain · LangGraph · RAG · SHAP</td>
+<td>🧠 <b>AI</b><br/>LangChain · LangGraph · PyTorch · Scikit-learn · Hugging Face · RAG · LLMs</td>
+<td>⚙️ <b>Backend</b><br/>FastAPI · REST APIs · WebSockets · Node.js</td>
 </tr>
 <tr>
-<td><b>Backend</b><br/>FastAPI · Node.js · PostgreSQL · MongoDB · Redis · Supabase</td>
-<td><b>DevOps</b><br/>Docker · Git · Linux · GitHub Actions · VS Code</td>
+<td>💾 <b>Databases</b><br/>MongoDB · Redis · Supabase · PostgreSQL</td>
+<td>🛠️ <b>DevOps</b><br/>Docker · Git · Linux · GitHub · VS Code · Postman · Ollama</td>
+</tr>
+<tr>
+<td>⌨️ <b>Languages</b><br/>Python · C++ · JavaScript · SQL</td>
+<td>🚀 <b>Signal</b><br/>Agentic AI · backend systems · production-ready tooling</td>
 </tr>
 </table>
 
