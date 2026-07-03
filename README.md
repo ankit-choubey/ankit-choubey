@@ -5,19 +5,18 @@
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ BADGES ══ -->
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20%E2%80%A2%203rd%20Year-SRM%20University%20AP-D97706?style=flat-square&labelColor=151515&color=D97706" alt="degree"/>
-<img src="https://img.shields.io/badge/5%C3%97%20Competition%20Winner-%7E%242%2C304%20Prize%20Value-991B1B?style=flat-square&labelColor=151515" alt="wins"/>
-<img src="https://img.shields.io/badge/Open%20To-AI%20%2F%20ML%20Internships%20%26%20Research-FBBF24?style=flat-square&labelColor=151515" alt="open"/>
-<img src="https://komarev.com/ghpvc/?username=ankit-choubey&style=flat-square&color=D97706&labelColor=151515&label=Profile+Views" alt="views"/>
+<table>
+<tr>
+<td align="center"><b>Degree</b><br/>B.Tech CSE · SRM University AP · 3rd Year</td>
+<td align="center"><b>Wins</b><br/>5× competition winner · ~$2,304 prize value</td>
+<td align="center"><b>Focus</b><br/>AI/ML internships · research · agentic systems</td>
+<td align="center"><b>Identity</b><br/>CodeHashiraX · Ankit Choubey</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ SOCIALS ══ -->
-<a href="https://github.com/ankit-choubey"><img src="https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=0A0A0A&labelColor=151515" alt="github"/></a>
-<a href="https://www.linkedin.com/in/theankitchoubey"><img src="https://img.shields.io/badge/LinkedIn-991B1B?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=151515" alt="linkedin"/></a>
-<a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-FBBF24?style=for-the-badge&logo=leetcode&logoColor=0A0A0A&labelColor=151515" alt="leetcode"/></a>
-<a href="mailto:ankitkumarchoubey0909@gmail.com"><img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=151515" alt="email"/></a>
+<img width="100%" src="./assets/connect.svg" alt="connect strip"/>
 
 </div>
 
@@ -30,32 +29,39 @@
 
 <table>
 <tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/5%C3%97-Competition%20Wins-D97706?style=for-the-badge&labelColor=151515" alt="wins"/>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/6%C3%97-National%20Finalists-991B1B?style=for-the-badge&labelColor=151515" alt="finalists"/>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/%7E%242%2C304-Prize%20Value-FBBF24?style=for-the-badge&labelColor=151515" alt="prize"/>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/6%2B-AI%20Systems%20Built-D97706?style=for-the-badge&labelColor=151515" alt="systems"/>
-</td>
+<th>Metric</th>
+<th>Value</th>
+<th>Meaning</th>
 </tr>
 <tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/2-Research%20Projects-991B1B?style=for-the-badge&labelColor=151515" alt="research"/>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/Primary%20Focus-Agentic%20AI-FBBF24?style=for-the-badge&labelColor=151515" alt="focus"/>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/Domain-LLM%20Engineering-D97706?style=for-the-badge&labelColor=151515" alt="domain"/>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/Status-ACTIVE%20BUILD-991B1B?style=for-the-badge&labelColor=151515" alt="status"/>
-</td>
+<td>Competition wins</td>
+<td>5×</td>
+<td>Repeated placement across national and university-level events</td>
+</tr>
+<tr>
+<td>National finalist appearances</td>
+<td>6×</td>
+<td>Consistent validation in high-stakes innovation tracks</td>
+</tr>
+<tr>
+<td>Prize value</td>
+<td>~$2,304</td>
+<td>Measured outcome from competition runs</td>
+</tr>
+<tr>
+<td>AI systems built</td>
+<td>6+</td>
+<td>Agentic systems, RAG products, and backend AI workflows</td>
+</tr>
+<tr>
+<td>Research projects</td>
+<td>2</td>
+<td>Current focus on applied AI and governance</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>Active build</td>
+<td>Shipping and iterating in public</td>
 </tr>
 </table>
 
@@ -244,38 +250,18 @@ open_to:
 
 <div align="center">
 
-**[ Languages ]**
+<img width="100%" src="./assets/tech-stack.svg" alt="tech stack"/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql,bash&theme=dark" alt="languages"/>
-
-**[ AI / ML ]**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ai-ml"/>
-&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-D97706?style=flat-square&labelColor=151515)
-![LangGraph](https://img.shields.io/badge/LangGraph-991B1B?style=flat-square&labelColor=151515)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FBBF24?style=flat-square&logo=huggingface&logoColor=0A0A0A&labelColor=151515)
-![RAG](https://img.shields.io/badge/RAG-D97706?style=flat-square&labelColor=151515)
-![SHAP](https://img.shields.io/badge/SHAP%20%2F%20LIME-991B1B?style=flat-square&labelColor=151515)
-![Gymnasium](https://img.shields.io/badge/Gymnasium-FBBF24?style=flat-square&labelColor=151515)
-
-**[ Backend ]**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="backend"/>
-
-**[ Databases ]**
-
-<img src="https://skillicons.dev/icons?i=mongodb,redis,postgres&theme=dark" alt="databases"/>
-&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-D97706?style=flat-square&labelColor=151515)
-
-**[ DevOps & Tools ]**
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode&theme=dark" alt="devops"/>
-&nbsp;
-![Ollama](https://img.shields.io/badge/Ollama-991B1B?style=flat-square&labelColor=151515)
-![Groq](https://img.shields.io/badge/Groq-FBBF24?style=flat-square&labelColor=151515)
-![Deepgram](https://img.shields.io/badge/Deepgram-D97706?style=flat-square&labelColor=151515)
+<table>
+<tr>
+<td><b>Languages</b><br/>Python · C++ · JavaScript · SQL · Bash</td>
+<td><b>AI / ML</b><br/>PyTorch · TensorFlow · LangChain · LangGraph · RAG · SHAP</td>
+</tr>
+<tr>
+<td><b>Backend</b><br/>FastAPI · Node.js · PostgreSQL · MongoDB · Redis · Supabase</td>
+<td><b>DevOps</b><br/>Docker · Git · Linux · GitHub Actions · VS Code</td>
+</tr>
+</table>
 
 </div>
 
@@ -284,23 +270,22 @@ open_to:
 <!-- ══════════════════════════════════════════════════════════════ EXPERIENCE ══ -->
 ## `// experience`
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  Research Intern  ·  SRM University AP                                  │
-│  ─────────────────────────────────────────────────────────────────────  │
-│  • Multilingual healthcare speech transcription research               │
-│  • Domain-specific Retrieval-Augmented Generation (RAG)                │
-│  • Improving transcription quality for Indian healthcare contexts       │
-└─────────────────────────────────────────────────────────────────────────┘
+<img width="100%" src="./assets/experience.svg" alt="experience"/>
 
-┌─────────────────────────────────────────────────────────────────────────┐
-│  Research Intern  ·  Discover Persona                                   │
-│  ─────────────────────────────────────────────────────────────────────  │
-│  • Contributed to AI product development                               │
-│  • Backend AI systems engineering                                      │
-│  • Built and deployed LLM workflows                                    │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<th>Role</th>
+<th>Core Work</th>
+</tr>
+<tr>
+<td>Research Intern · SRM University AP</td>
+<td>Multilingual healthcare speech transcription, domain-specific RAG, and quality improvements for Indian healthcare contexts.</td>
+</tr>
+<tr>
+<td>Research / Product · Discover Persona</td>
+<td>AI product development, backend AI systems, and LLM workflow delivery.</td>
+</tr>
+</table>
 
 <img width="100%" src="./assets/divider.svg" alt="divider"/>
 
@@ -319,34 +304,7 @@ open_to:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit-choubey&show_icons=true&count_private=true&hide_border=true&title_color=D97706&icon_color=991B1B&text_color=F8FAFC&bg_color=0A0A0A" alt="stats"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=ankit-choubey&hide_border=true&background=0A0A0A&stroke=D97706&ring=991B1B&fire=FBBF24&currStreakLabel=D97706&sideLabels=991B1B&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="streak"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-choubey&layout=compact&hide_border=true&langs_count=8&title_color=D97706&text_color=F8FAFC&bg_color=0A0A0A&hide=html,css" alt="top-langs"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ankit-choubey&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=6" alt="trophies"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-choubey&bg_color=0A0A0A&color=D97706&line=991B1B&point=FBBF24&area=true&area_color=151515&hide_border=true" alt="activity-graph"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-choubey&theme=monokai" width="100%" alt="profile-details"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit-choubey&theme=monokai" alt="repos-per-language"/>&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankit-choubey&theme=monokai" alt="most-commit-language"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit-choubey&theme=monokai" alt="stats-card"/>&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankit-choubey&theme=monokai&utcOffset=+5.5" alt="productive-time"/>
+<img width="100%" src="./assets/github-analytics.svg" alt="github analytics"/>
 
 <br/>
 
@@ -359,40 +317,51 @@ open_to:
 <!-- ═════════════════════════════════════════════════════════ EARLY INNOVATION ══ -->
 ## `// early_innovation`
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  Inspire Award                                                          │
-│  ₹10,000 Prize  ·  CBSE National Science Exhibition                    │
-│  Recognition for scientific innovation at national level               │
-└─────────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────────┐
-│  National Finalist × 2                                                 │
-│  Ideate for India                                                       │
-└─────────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────────┐
-│  Regional Finalist                                                      │
-│  Web3Conf                                                               │
-└─────────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────────┐
-│  Top 100 Teams                                                          │
-│  Web3Conf                                                               │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<th>Win</th>
+<th>Event</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td>Inspire Award</td>
+<td>CBSE National Science Exhibition</td>
+<td>₹10,000 prize · national recognition</td>
+</tr>
+<tr>
+<td>National Finalist × 2</td>
+<td>Ideate for India</td>
+<td>Early-stage innovation validation</td>
+</tr>
+<tr>
+<td>Regional Finalist</td>
+<td>Web3Conf</td>
+<td>Competitive finalist placement</td>
+</tr>
+<tr>
+<td>Top 100 Teams</td>
+<td>Web3Conf</td>
+<td>Shortlisted from a large national pool</td>
+</tr>
+</table>
 
 <img width="100%" src="./assets/divider.svg" alt="divider"/>
 
 <!-- ══════════════════════════════════════════════════════════ CERTIFICATIONS ══ -->
 ## `// certifications`
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  MongoDB Certified Associate Developer                                  │
-│  Issued by MongoDB, Inc.                                               │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<th>Certification</th>
+<th>Issuer</th>
+<th>Status</th>
+</tr>
+<tr>
+<td>MongoDB Certified Associate Developer</td>
+<td>MongoDB, Inc.</td>
+<td>Completed</td>
+</tr>
+</table>
 
 <img width="100%" src="./assets/divider.svg" alt="divider"/>
 
@@ -401,10 +370,14 @@ open_to:
 
 <div align="center">
 
-<a href="https://github.com/ankit-choubey"><img src="https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=0A0A0A&labelColor=151515" alt="github"/></a>
-<a href="https://www.linkedin.com/in/theankitchoubey"><img src="https://img.shields.io/badge/LinkedIn-991B1B?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=151515" alt="linkedin"/></a>
-<a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-FBBF24?style=for-the-badge&logo=leetcode&logoColor=0A0A0A&labelColor=151515" alt="leetcode"/></a>
-<a href="mailto:ankitkumarchoubey0909@gmail.com"><img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=151515" alt="email"/></a>
+<img width="100%" src="./assets/connect.svg" alt="connect strip"/>
+
+<br/>
+
+<a href="https://github.com/ankit-choubey">GitHub</a> ·
+<a href="https://www.linkedin.com/in/theankitchoubey">LinkedIn</a> ·
+<a href="https://leetcode.com/u/TheCodeHashira/">LeetCode</a> ·
+<a href="mailto:ankitkumarchoubey0909@gmail.com">Email</a>
 
 <br/><br/>
 

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060509"/>
+      <stop offset="50%" stop-color="#121018"/>
+      <stop offset="100%" stop-color="#060509"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c94d1e"/>
+      <stop offset="50%" stop-color="#d69c0b"/>
+      <stop offset="100%" stop-color="#7a0d1d"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 30px; font-weight: 700; fill: #f8fafc; letter-spacing: 4px; }
+      .subtitle { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 13px; fill: #d69c0b; letter-spacing: 2px; }
+      .card-title { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 20px; fill: #f8fafc; }
+      .card-sub { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 12px; fill: #fbbf24; letter-spacing: 1px; }
+      .body { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 12px; fill: #cbd5e1; }
+      .panel { fill: rgba(255,255,255,0.05); stroke: rgba(214,156,11,0.25); stroke-width: 1; }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      .rise { animation: rise 1.2s cubic-bezier(.16,1,.3,1) forwards; opacity: 0; }
+      @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+      @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect x="0" y="0" width="4" height="360" fill="url(#ember)"/>
+  <text class="title" x="34" y="48">EXPERIENCE // CHAKRA LOG</text>
+  <text class="subtitle" x="34" y="76">proof of work, not just titles</text>
+
+  <g transform="translate(34, 108)">
+    <rect class="panel rise" x="0" y="0" width="540" height="188" rx="18" style="animation-delay:0.1s;"/>
+    <text class="card-sub" x="20" y="30">Research Intern · SRM University AP</text>
+    <text class="card-title" x="20" y="64">Healthcare Speech AI</text>
+    <text class="body" x="20" y="96">• Multilingual transcription research for Indian healthcare</text>
+    <text class="body" x="20" y="120">• Domain-specific RAG workflows for clinician-facing context</text>
+    <text class="body" x="20" y="144">• Improving signal quality, robustness, and usable recall</text>
+    <rect x="20" y="162" width="220" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+    <rect x="20" y="162" width="200" height="8" rx="4" fill="url(#ember)"/>
+  </g>
+
+  <g transform="translate(626, 108)">
+    <rect class="panel rise" x="0" y="0" width="540" height="188" rx="18" style="animation-delay:0.2s;"/>
+    <text class="card-sub" x="20" y="30">Research / Product · Discover Persona</text>
+    <text class="card-title" x="20" y="64">LLM Workflows & Backend AI</text>
+    <text class="body" x="20" y="96">• Contributed to AI product development and delivery</text>
+    <text class="body" x="20" y="120">• Built backend systems that support LLM workflows</text>
+    <text class="body" x="20" y="144">• Focused on reliability, orchestration, and deployment</text>
+    <rect x="20" y="162" width="220" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+    <rect x="20" y="162" width="182" height="8" rx="4" fill="#d69c0b"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle class="pulse" cx="1036" cy="74" r="3.2" fill="#d69c0b"/>
+    <circle class="pulse" cx="1068" cy="98" r="2.2" fill="#c94d1e" style="animation-delay:-1s;"/>
+    <circle class="pulse" cx="1100" cy="122" r="1.8" fill="#f8fafc" style="animation-delay:-2s;"/>
+    <circle class="pulse" cx="1136" cy="146" r="2.8" fill="#7a0d1d" style="animation-delay:-1.5s;"/>
+  </g>
+</svg>
