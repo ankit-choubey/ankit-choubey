@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ HERO ══ -->
-<img width="100%" src="./assets/hero.svg" alt="IGNIS — Ankit Choubey Hero"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/hero.svg" alt="IGNIS — Ankit Choubey Hero"/>
 
 <br/>
 
@@ -16,18 +16,18 @@
 
 <br/>
 
-<img width="100%" src="./assets/connect.svg" alt="connect strip"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/connect.svg" alt="connect strip"/>
 
 </div>
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ══════════════════════════════════════════════════════════ BATTLE RECORD ══ -->
 ## `// battle_record`
 
 <div align="center">
 
-<img width="100%" src="./assets/battle-record.svg" alt="battle record"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/battle-record.svg" alt="battle record"/>
 
 <table>
 <tr>
@@ -36,20 +36,81 @@
 <th>Meaning</th>
 </tr>
 <tr>
-<td>Research projects</td>
-<td>2</td>
-<td>Current focus on applied AI and governance</td>
+<td>Competition Wins</td>
+<td>5×</td>
+<td>Repeated placements across competitions</td>
 </tr>
 <tr>
-<td>Status</td>
-<td>Active build</td>
-<td>Shipping and iterating in public</td>
+<td>National Finalists</td>
+<td>6×</td>
+<td>Consistent high-stakes finalist validation</td>
+</tr>
+<tr>
+<td>Prize Value</td>
+<td>~$2,304 (~₹3L+)</td>
+<td>Approximate cumulative winnings</td>
+</tr>
+<tr>
+<td>AI Systems</td>
+<td>6+</td>
+<td>Agentic systems, RAG products, backend AI workflows</td>
+</tr>
+<tr>
+<td>Research Projects</td>
+<td>2</td>
+<td>Applied AI and governance work</td>
+</tr>
+<tr>
+<td>Primary Focus</td>
+<td>Agentic AI</td>
+<td>Core profile direction</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<th>Competition</th>
+<th>Result</th>
+<th>Prize / Recognition</th>
+<th>Project</th>
+</tr>
+<tr>
+<td>Zenith National Hackathon</td>
+<td>1st Runner-up</td>
+<td>$1500</td>
+<td>Aegis-Forge</td>
+</tr>
+<tr>
+<td>HackBIOS 2K25</td>
+<td>Winner</td>
+<td>$564</td>
+<td>SurakshaMesh</td>
+</tr>
+<tr>
+<td>TechTatva Hackathon</td>
+<td>Winner</td>
+<td>₹10,000</td>
+<td>EDITH</td>
+</tr>
+<tr>
+<td>IIT Bombay LogiTHON</td>
+<td>Top 25</td>
+<td>IIT Bombay Visit</td>
+<td>ExportEase</td>
+</tr>
+<tr>
+<td>Hack for Green</td>
+<td>Top 25</td>
+<td>Microsoft Office Visit</td>
+<td>TriNetra</td>
 </tr>
 </table>
 
 </div>
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ ABOUT ══ -->
 ## `// about`
@@ -68,7 +129,7 @@ LOCATION    =  Andhra Pradesh, India
 HANDLE      =  CodeHashiraX
 ```
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ══════════════════════════════════════════════════════════ CURRENT MISSION ══ -->
 ## `// current_mission`
@@ -94,7 +155,7 @@ open_to:
   - Open Source
 ```
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════ FLAGSHIP PROJECTS ══ -->
 ## `// flagship_projects`
@@ -108,6 +169,47 @@ open_to:
 
 **Problem:** Most AI assistants reason independently and lack coordinated decision-making.
 
+
+<br/>
+
+<table>
+<tr>
+<th>Competition</th>
+<th>Result</th>
+<th>Prize / Recognition</th>
+<th>Project</th>
+</tr>
+<tr>
+<td>Zenith National Hackathon</td>
+<td>1st Runner-up</td>
+<td>$1500</td>
+<td>Aegis-Forge</td>
+</tr>
+<tr>
+<td>HackBIOS 2K25</td>
+<td>Winner</td>
+<td>$564</td>
+<td>SurakshaMesh</td>
+</tr>
+<tr>
+<td>TechTatva Hackathon</td>
+<td>Winner</td>
+<td>₹10,000</td>
+<td>EDITH</td>
+</tr>
+<tr>
+<td>IIT Bombay LogiTHON</td>
+<td>Top 25</td>
+<td>IIT Bombay Visit</td>
+<td>ExportEase</td>
+</tr>
+<tr>
+<td>Hack for Green</td>
+<td>Top 25</td>
+<td>Microsoft Office Visit</td>
+<td>TriNetra</td>
+</tr>
+</table>
 **Solution:** Designed a modular multi-agent platform where specialized agents collaborate through orchestration, planning, memory and voice interfaces.
 
 | Dimension | Detail |
@@ -225,7 +327,7 @@ open_to:
 <br/>
 </details>
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ════════════════════════════════════════════════════════════════ TECH STACK ══ -->
 ## `// tech_stack`
@@ -249,12 +351,12 @@ open_to:
 
 </div>
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ══════════════════════════════════════════════════════════════ EXPERIENCE ══ -->
 ## `// experience`
 
-<img width="100%" src="./assets/experience.svg" alt="experience"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/experience.svg" alt="experience"/>
 
 <table>
 <tr>
@@ -271,7 +373,7 @@ open_to:
 </tr>
 </table>
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ RESEARCH ══ -->
 ## `// research`
@@ -281,22 +383,60 @@ open_to:
 | **Multilingual Healthcare Speech AI** | Speech transcription · RAG · Indian healthcare NLP | 🔬 Active |
 | **DharmaShield-Env** | AI governance · RL benchmarks · policy compliance | 🔬 Active |
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ══════════════════════════════════════════════════════════ GITHUB ANALYTICS ══ -->
 ## `// github_analytics`
 
 <div align="center">
 
-<img width="100%" src="./assets/github-analytics.svg" alt="github analytics"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ankit-choubey&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=D97706&icon_color=FBBF24&text_color=F8FAFC&bg_color=0A0A0A00&custom_title=Ankit%20Choubey%20%7C%20GitHub%20Stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ankit-choubey&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=D97706&icon_color=FBBF24&text_color=1F2937&bg_color=0A0A0A00&custom_title=Ankit%20Choubey%20%7C%20GitHub%20Stats" alt="stats"/>
+</picture>
+
+<img height="180" src="https://streak-stats.demolab.com?user=ankit-choubey&hide_border=true&background=0A0A0A00&stroke=D97706&ring=991B1B&fire=FBBF24&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=D97706&sideLabels=94A3B8&dates=94A3B8" alt="streak"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-choubey&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=D97706&text_color=F8FAFC&bg_color=0A0A0A00&hide=html,css" alt="top-langs"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-choubey&bg_color=0A0A0A&color=D97706&line=991B1B&point=FBBF24&area=true&area_color=151515&hide_border=true&custom_title=Contribution%20Activity" alt="activity-graph"/>
+
+<br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ankit-choubey&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="trophies"/>
+
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-choubey&theme=monokai" alt="profile-details"/>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit-choubey&theme=monokai" alt="repos-per-language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankit-choubey&theme=monokai" alt="most-commit-language"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit-choubey&theme=monokai" alt="stats-card"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankit-choubey&theme=monokai&utcOffset=+5.5" alt="productive-time"/>
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </div>
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ═════════════════════════════════════════════════════════ EARLY INNOVATION ══ -->
 ## `// early_innovation`
@@ -329,7 +469,7 @@ open_to:
 </tr>
 </table>
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ══════════════════════════════════════════════════════════ CERTIFICATIONS ══ -->
 ## `// certifications`
@@ -347,14 +487,14 @@ open_to:
 </tr>
 </table>
 
-<img width="100%" src="./assets/divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
 
 <!-- ════════════════════════════════════════════════════════════════ CONNECT ══ -->
 ## `// connect`
 
 <div align="center">
 
-<img width="100%" src="./assets/connect.svg" alt="connect strip"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/connect.svg" alt="connect strip"/>
 
 <br/>
 
@@ -369,4 +509,4 @@ open_to:
 
 </div>
 
-<img width="100%" src="./assets/footer.svg" alt="IGNIS Footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/footer.svg" alt="IGNIS Footer"/>
