@@ -12,7 +12,7 @@
     <style>
       .title { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 24px; font-weight: 700; fill: #f8fafc; letter-spacing: 4px; }
       .label { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 14px; fill: #cbd5e1; letter-spacing: 1px; }
-      .chip { fill: rgba(255,255,255,0.05); stroke: rgba(214,156,11,0.24); stroke-width: 1; }
+      .chip { fill: #ffffff; fill-opacity: 0.05; stroke: #d69c0b; stroke-opacity: 0.24; stroke-width: 1; }
       .bubble { animation: bob 3s ease-in-out infinite; }
       @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
     </style>
@@ -20,12 +20,12 @@
 
   <rect width="1200" height="240" fill="url(#bg)"/>
   <rect x="0" y="0" width="4" height="240" fill="url(#ember)"/>
-  <text class="title" x="34" y="44">CONNECT // ALLIES & CHANNELS</text>
+  <text class="title" x="34" y="44">CONNECT // ALLIES &amp; CHANNELS</text>
   <text class="label" x="34" y="74">clean fallback strip so contact links never depend on external badge renders</text>
 
   <g transform="translate(34, 102)">
     <rect class="chip" x="0" y="0" width="260" height="94" rx="18"/>
-    <circle class="bubble" cx="42" cy="47" r="24" fill="rgba(214,156,11,0.16)" stroke="#d69c0b" stroke-opacity="0.45"/>
+    <circle class="bubble" cx="42" cy="47" r="24" fill="#d69c0b" fill-opacity="0.16" stroke="#d69c0b" stroke-opacity="0.45"/>
     <text x="42" y="53" text-anchor="middle" class="label" style="font-size:18px; fill:#f8fafc;">GH</text>
     <text class="label" x="82" y="42">GitHub</text>
     <text class="label" x="82" y="64">ankit-choubey</text>
@@ -33,7 +33,7 @@
 
   <g transform="translate(314, 102)">
     <rect class="chip" x="0" y="0" width="260" height="94" rx="18"/>
-    <circle class="bubble" cx="42" cy="47" r="24" fill="rgba(121,13,29,0.16)" stroke="#7a0d1d" stroke-opacity="0.45"/>
+    <circle class="bubble" cx="42" cy="47" r="24" fill="#7a0d1d" fill-opacity="0.16" stroke="#7a0d1d" stroke-opacity="0.45"/>
     <text x="42" y="53" text-anchor="middle" class="label" style="font-size:18px; fill:#f8fafc;">IN</text>
     <text class="label" x="82" y="42">LinkedIn</text>
     <text class="label" x="82" y="64">theankitchoubey</text>
@@ -41,7 +41,7 @@
 
   <g transform="translate(594, 102)">
     <rect class="chip" x="0" y="0" width="260" height="94" rx="18"/>
-    <circle class="bubble" cx="42" cy="47" r="24" fill="rgba(201,77,30,0.16)" stroke="#c94d1e" stroke-opacity="0.45"/>
+    <circle class="bubble" cx="42" cy="47" r="24" fill="#c94d1e" fill-opacity="0.16" stroke="#c94d1e" stroke-opacity="0.45"/>
     <text x="42" y="53" text-anchor="middle" class="label" style="font-size:18px; fill:#f8fafc;">LC</text>
     <text class="label" x="82" y="42">LeetCode</text>
     <text class="label" x="82" y="64">TheCodeHashira</text>
@@ -49,7 +49,7 @@
 
   <g transform="translate(874, 102)">
     <rect class="chip" x="0" y="0" width="292" height="94" rx="18"/>
-    <circle class="bubble" cx="42" cy="47" r="24" fill="rgba(214,156,11,0.16)" stroke="#d69c0b" stroke-opacity="0.45"/>
+    <circle class="bubble" cx="42" cy="47" r="24" fill="#d69c0b" fill-opacity="0.16" stroke="#d69c0b" stroke-opacity="0.45"/>
     <text x="42" y="53" text-anchor="middle" class="label" style="font-size:14px; fill:#f8fafc;">@</text>
     <text class="label" x="82" y="42">Email</text>
     <text class="label" x="82" y="64">ankitkumarchoubey0909@gmail.com</text>

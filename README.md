@@ -22,20 +22,22 @@ AI/ML Internships · Research · Agentic Systems
 
 | Metric | Value | Meaning |
 | :-- | :--: | :-- |
-| 🏆 **Competition Wins** | **5×** | Repeated placements across national hackathons |
-| 🎖️ **National Finalists** | **6×** | Consistent high-stakes finalist validation |
-| 💰 **Prize Value** | **~$2,304 (~₹3L+)** | Cumulative winnings across hackathons |
-| ⚙️ **AI Systems** | **6+** | Coordinated agents, RAG pipelines, and backend workflows |
-| 🔬 **Research Projects** | **2** | Applied AI safety governance & multilingual speech AI |
-| 🎯 **Primary Focus** | **Agentic AI** | Core engineering and profile direction |
+| **Competition Wins** | **5×** | Repeated placements across national hackathons |
+| **National Finalists** | **6×** | Consistent high-stakes finalist validation |
+| **Prize Value** | **~$2,304 (~₹3L+)** | Cumulative winnings across hackathons |
+| **AI Systems** | **6+** | Coordinated agents, RAG pipelines, and backend workflows |
+| **Research Projects** | **2** | Applied AI safety governance & multilingual speech AI |
+| **Primary Focus** | **Agentic AI** | Core engineering and profile direction |
+
+<br/>
 
 | Competition | Result | Prize / Recognition | Project |
 | :-- | :-- | :-- | :-- |
-| ⚡ **Zenith National Hackathon** | **1st Runner-up** | $1,500 Prize | [Aegis-Forge](https://github.com/ankit-choubey) |
-| 🛡️ **HackBIOS 2K25** | **Winner** | $564 Prize | [SurakshaMesh](https://github.com/ankit-choubey) |
-| 🔥 **TechTatva Hackathon** | **Winner** | ₹10,000 Prize | [EDITH](https://github.com/ankit-choubey) |
-| 🎓 **IIT Bombay LogiTHON** | **Top 25** | IIT Bombay Visit | [ExportEase](https://github.com/ankit-choubey) |
-| 🌿 **Hack for Green** | **Top 25** | Microsoft Office Visit | [TriNetra](https://github.com/ankit-choubey) |
+| **Zenith National Hackathon** | **1st Runner-up** | $1,500 Prize | [Aegis-Forge](https://github.com/ankit-choubey) |
+| **HackBIOS 2K25** | **Winner** | $564 Prize | [SurakshaMesh](https://github.com/ankit-choubey) |
+| **TechTatva Hackathon** | **Winner** | ₹10,000 Prize | [EDITH](https://github.com/ankit-choubey) |
+| **IIT Bombay LogiTHON** | **Top 25** | IIT Bombay Visit | [ExportEase](https://github.com/ankit-choubey) |
+| **Hack for Green** | **Top 25** | Microsoft Office Visit | [TriNetra](https://github.com/ankit-choubey) |
 
 <img width="100%" src="assets/divider.svg" alt="divider"/>
 
@@ -51,8 +53,8 @@ $ cat /etc/ignis/identity
 NAME        =  Ankit Choubey
 ROLE        =  AI/ML Engineer  |  Agentic AI & LLM Systems
 INSTITUTION =  SRM University AP  |  B.Tech CSE  |  3rd Year
-FOCUS       =  Multi-Agent Orchestration  |  RAG  |  RL Environments
-RESEARCH    =  AI Governance  |  Explainability  |  Healthcare Speech AI
+FOCUS       =  Multi-Agent Orchestration  |  RAG  |  AI Automations | LLM Systems 
+RESEARCH    =  Healthcare Speech AI 
 LOCATION    =  Andhra Pradesh, India
 HANDLE      =  CodeHashiraX
 ```
@@ -63,7 +65,6 @@ HANDLE      =  CodeHashiraX
 
 ```yaml
 building:
-  - Sharingan
   - Agentic AI Systems
   - Healthcare Speech AI
 
@@ -231,17 +232,17 @@ Built an AI system simplifying export documentation and compliance verification.
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql,html,css,astro,java&theme=dark&perline=8" />
 
 ### AI / ML
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=8" />
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-D97706?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/LangChain-D97706?style=for-the-badge&logo=langchain&logoColor=white&labelColor=151515" />
   <img src="https://img.shields.io/badge/LangGraph-991B1B?style=for-the-badge&labelColor=151515" />
   <img src="https://img.shields.io/badge/RAG-FBBF24?style=for-the-badge&labelColor=151515&color=FBBF24" />
   <img src="https://img.shields.io/badge/LLMs-D97706?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FBBF24?style=for-the-badge&labelColor=151515&color=FBBF24" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FBBF24?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=151515&color=FBBF24" />
 </p>
 
 ### Backend
@@ -251,16 +252,16 @@ Built an AI system simplifying export documentation and compliance verification.
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark&perline=8" />
 
 <p>
-  <img src="https://img.shields.io/badge/Supabase-D97706?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Supabase-D97706?style=for-the-badge&logo=supabase&logoColor=white&labelColor=151515" />
 </p>
 
 ### DevOps / Tools
-<img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,postman&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,github,postman&theme=dark&perline=8" />
 
 <p>
-  <img src="https://img.shields.io/badge/Ollama-991B1B?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Ollama-991B1B?style=for-the-badge&logo=ollama&logoColor=white&labelColor=151515" />
   <img src="https://img.shields.io/badge/Groq-FBBF24?style=for-the-badge&labelColor=151515&color=FBBF24" />
-  <img src="https://img.shields.io/badge/Deepgram-D97706?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Deepgram-D97706?style=for-the-badge&logo=deepgram&logoColor=white&labelColor=151515" />
 </p>
 
 </div>
@@ -287,8 +288,8 @@ Built an AI system simplifying export documentation and compliance verification.
 
 | Project | Domain | Status |
 | :-- | :-- | :-- |
-| 🎙️ **Multilingual Healthcare Speech AI** | Speech transcription · RAG · Indian healthcare NLP | 🔬 **Active** |
-| 🛡️ **DharmaShield-Env** | AI governance · RL benchmarks · policy compliance | 🔬 **Active** |
+| **Multilingual Healthcare Speech AI** | Speech transcription · RAG · Indian healthcare NLP | **Active** |
+| **DharmaShield-Env** | AI governance · RL benchmarks · policy compliance | **Active** |
 
 <img width="100%" src="assets/divider.svg" alt="divider"/>
 
@@ -297,7 +298,7 @@ Built an AI system simplifying export documentation and compliance verification.
 <div align="center">
 
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=ankit-choubey&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=D97706&icon_color=FBBF24&text_color=F8FAFC&bg_color=0A0A0A00&custom_title=Ankit%20Choubey%20%7C%20GitHub%20Stats&v=2" alt="stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=ankit-choubey&hide_border=true&background=0A0A0A00&stroke=D97706&ring=991B1B&fire=FBBF24&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=D97706&sideLabels=94A3B8&dates=94A3B8" alt="streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=ankit-choubey&hide_border=true&background=0A0A0A00&stroke=D97706&ring=991B1B&fire=FBBF24&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=D97706&sideLabels=94A3B8&dates=94A3B8&v=2" alt="streak" />
 
 <br/>
 
@@ -337,10 +338,10 @@ Built an AI system simplifying export documentation and compliance verification.
 
 | Recognition | Event | Detail |
 | :-- | :-- | :-- |
-| 💡 **Inspire Award** | CBSE National Science Exhibition | ₹10,000 prize · national recognition |
-| 🏅 **National Finalist ×2** | Ideate for India | Early-stage innovation validation |
-| 🌐 **Regional Finalist** | Web3Conf | Competitive finalist placement |
-| 📊 **Top 100 Teams** | Web3Conf | Shortlisted from a large national pool |
+| **Inspire Award** | CBSE National Science Exhibition | ₹10,000 prize · national recognition |
+| **National Finalist ×2** | Ideate for India | Early-stage innovation validation |
+| **Regional Finalist** | Web3Conf | Competitive finalist placement |
+| **Top 100 Teams** | Web3Conf | Shortlisted from a large national pool |
 
 <img width="100%" src="assets/divider.svg" alt="divider"/>
 
@@ -348,7 +349,7 @@ Built an AI system simplifying export documentation and compliance verification.
 
 | Certification | Issuer | Status |
 | :-- | :-- | :-- |
-| 🍃 **MongoDB Certified Associate Developer** | MongoDB, Inc. | **Completed** |
+| **MongoDB Certified Associate Developer** | MongoDB, Inc. | **Completed** |
 
 <img width="100%" src="assets/divider.svg" alt="divider"/>
 
@@ -356,10 +357,10 @@ Built an AI system simplifying export documentation and compliance verification.
 
 <div align="center">
 
-<a href="https://github.com/ankit-choubey"><img src="https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=0A0A0A&labelColor=151515" alt="GitHub" /></a>
+<a href="https://github.com/ankit-choubey"><img src="https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/theankitchoubey"><img src="https://img.shields.io/badge/LinkedIn-991B1B?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=151515" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-FBBF24?style=for-the-badge&logo=leetcode&logoColor=0A0A0A&labelColor=151515" alt="LeetCode" /></a>
-<a href="mailto:ankitkumarchoubey0909@gmail.com"><img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=151515" alt="Email" /></a>
+<a href="https://leetcode.com/u/TheCodeHashira/"><img src="https://img.shields.io/badge/LeetCode-FBBF24?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=151515" alt="LeetCode" /></a>
+<a href="mailto:ankitkumarchoubey0909@gmail.com"><img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white&labelColor=151515" alt="Email" /></a>
 
 <br/><br/>
 

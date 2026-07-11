@@ -20,7 +20,7 @@
       .card-title { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 20px; fill: #f8fafc; }
       .card-sub { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 12px; fill: #fbbf24; letter-spacing: 1px; }
       .body { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 12px; fill: #cbd5e1; }
-      .panel { fill: rgba(255,255,255,0.05); stroke: rgba(214,156,11,0.25); stroke-width: 1; }
+      .panel { fill: #ffffff; fill-opacity: 0.05; stroke: #d69c0b; stroke-opacity: 0.25; stroke-width: 1; }
       .pulse { animation: pulse 3s ease-in-out infinite; }
       .rise { animation: rise 1.2s cubic-bezier(.16,1,.3,1) forwards; }
       @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
@@ -40,18 +40,18 @@
     <text class="body" x="20" y="96">• Multilingual transcription research for Indian healthcare</text>
     <text class="body" x="20" y="120">• Domain-specific RAG workflows for clinician-facing context</text>
     <text class="body" x="20" y="144">• Improving signal quality, robustness, and usable recall</text>
-    <rect x="20" y="162" width="220" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+    <rect x="20" y="162" width="220" height="8" rx="4" fill="#ffffff" fill-opacity="0.06"/>
     <rect x="20" y="162" width="200" height="8" rx="4" fill="url(#ember)"/>
   </g>
 
   <g transform="translate(626, 108)">
     <rect class="panel rise" x="0" y="0" width="540" height="188" rx="18" style="animation-delay:0.2s;" opacity="1"/>
     <text class="card-sub" x="20" y="30">Research / Product · Discover Persona</text>
-    <text class="card-title" x="20" y="64">LLM Workflows & Backend AI</text>
+    <text class="card-title" x="20" y="64">LLM Workflows &amp; Backend AI</text>
     <text class="body" x="20" y="96">• Contributed to AI product development and delivery</text>
     <text class="body" x="20" y="120">• Built backend systems that support LLM workflows</text>
     <text class="body" x="20" y="144">• Focused on reliability, orchestration, and deployment</text>
-    <rect x="20" y="162" width="220" height="8" rx="4" fill="rgba(255,255,255,0.06)"/>
+    <rect x="20" y="162" width="220" height="8" rx="4" fill="#ffffff" fill-opacity="0.06"/>
     <rect x="20" y="162" width="182" height="8" rx="4" fill="#d69c0b"/>
   </g>
 
