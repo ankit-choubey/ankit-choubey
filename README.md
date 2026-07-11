@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/hero.svg" alt="IGNIS Hero" />
+<img width="100%" src="assets/hero.svg" alt="IGNIS Hero" />
 
 <br/>
 
@@ -14,30 +14,30 @@ AI/ML Internships · Research · Agentic Systems
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// battle_record`
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/battle-record.svg" alt="Battle Record" />
+<img width="100%" src="assets/battle-record.svg" alt="Battle Record" />
 
 | Metric | Value | Meaning |
 | :-- | :--: | :-- |
-| Competition Wins | **5×** | Repeated placements across competitions |
-| National Finalists | **6×** | Consistent high-stakes finalist validation |
-| Prize Value | **~$2,304 (~₹3L+)** | Approximate cumulative winnings |
-| AI Systems | **6+** | Agentic systems, RAG products, backend AI workflows |
-| Research Projects | **2** | Applied AI and governance work |
-| Primary Focus | **Agentic AI** | Core profile direction |
+| 🏆 **Competition Wins** | **5×** | Repeated placements across national hackathons |
+| 🎖️ **National Finalists** | **6×** | Consistent high-stakes finalist validation |
+| 💰 **Prize Value** | **~$2,304 (~₹3L+)** | Cumulative winnings across hackathons |
+| ⚙️ **AI Systems** | **6+** | Coordinated agents, RAG pipelines, and backend workflows |
+| 🔬 **Research Projects** | **2** | Applied AI safety governance & multilingual speech AI |
+| 🎯 **Primary Focus** | **Agentic AI** | Core engineering and profile direction |
 
 | Competition | Result | Prize / Recognition | Project |
 | :-- | :-- | :-- | :-- |
-| Zenith National Hackathon | 1st Runner-up | $1500 | Aegis-Forge |
-| HackBIOS 2K25 | Winner | $564 | SurakshaMesh |
-| TechTatva Hackathon | Winner | ₹10,000 | EDITH |
-| IIT Bombay LogiTHON | Top 25 | IIT Bombay Visit | ExportEase |
-| Hack for Green | Top 25 | Microsoft Office Visit | TriNetra |
+| ⚡ **Zenith National Hackathon** | **1st Runner-up** | $1,500 Prize | [Aegis-Forge](https://github.com/ankit-choubey) |
+| 🛡️ **HackBIOS 2K25** | **Winner** | $564 Prize | [SurakshaMesh](https://github.com/ankit-choubey) |
+| 🔥 **TechTatva Hackathon** | **Winner** | ₹10,000 Prize | [EDITH](https://github.com/ankit-choubey) |
+| 🎓 **IIT Bombay LogiTHON** | **Top 25** | IIT Bombay Visit | [ExportEase](https://github.com/ankit-choubey) |
+| 🌿 **Hack for Green** | **Top 25** | Microsoft Office Visit | [TriNetra](https://github.com/ankit-choubey) |
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// about`
 
@@ -57,7 +57,7 @@ LOCATION    =  Andhra Pradesh, India
 HANDLE      =  CodeHashiraX
 ```
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// current_mission`
 
@@ -82,7 +82,7 @@ open_to:
   - Open Source
 ```
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// flagship_projects`
 
@@ -224,7 +224,7 @@ Built an AI system simplifying export documentation and compliance verification.
 
 </details>
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// tech_stack`
 
@@ -265,11 +265,11 @@ Built an AI system simplifying export documentation and compliance verification.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// experience`
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/experience.svg" alt="Experience" />
+<img width="100%" src="assets/experience.svg" alt="Experience" />
 
 ### Research Intern · SRM University AP
 - Multilingual healthcare speech transcription
@@ -281,27 +281,27 @@ Built an AI system simplifying export documentation and compliance verification.
 - Backend AI systems
 - LLM workflow delivery
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// research`
 
 | Project | Domain | Status |
 | :-- | :-- | :-- |
-| **Multilingual Healthcare Speech AI** | Speech transcription · RAG · Indian healthcare NLP | 🔬 Active |
-| **DharmaShield-Env** | AI governance · RL benchmarks · policy compliance | 🔬 Active |
+| 🎙️ **Multilingual Healthcare Speech AI** | Speech transcription · RAG · Indian healthcare NLP | 🔬 **Active** |
+| 🛡️ **DharmaShield-Env** | AI governance · RL benchmarks · policy compliance | 🔬 **Active** |
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// github_analytics`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ankit-choubey&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=D97706&icon_color=FBBF24&text_color=F8FAFC&bg_color=0A0A0A00&custom_title=Ankit%20Choubey%20%7C%20GitHub%20Stats" alt="stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=ankit-choubey&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=D97706&icon_color=FBBF24&text_color=F8FAFC&bg_color=0A0A0A00&custom_title=Ankit%20Choubey%20%7C%20GitHub%20Stats&v=2" alt="stats" />
 <img height="180" src="https://streak-stats.demolab.com?user=ankit-choubey&hide_border=true&background=0A0A0A00&stroke=D97706&ring=991B1B&fire=FBBF24&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=D97706&sideLabels=94A3B8&dates=94A3B8" alt="streak" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-choubey&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=D97706&text_color=F8FAFC&bg_color=0A0A0A00&hide=html,css" alt="top-langs" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankit-choubey&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=D97706&text_color=F8FAFC&bg_color=0A0A0A00&hide=html,css&v=2" alt="top-langs" />
 
 <br/>
 
@@ -309,7 +309,7 @@ Built an AI system simplifying export documentation and compliance verification.
 
 <br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ankit-choubey&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="trophies" />
+<img width="100%" src="https://github-trophies.devomb.com/?username=ankit-choubey&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&v=2" alt="trophies" />
 
 <br/>
 
@@ -327,30 +327,30 @@ Built an AI system simplifying export documentation and compliance verification.
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/output/github-contribution-grid-snake-dark.svg?v=2" alt="snake" />
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// early_innovation`
 
 | Recognition | Event | Detail |
 | :-- | :-- | :-- |
-| Inspire Award | CBSE National Science Exhibition | ₹10,000 prize · national recognition |
-| National Finalist ×2 | Ideate for India | Early-stage innovation validation |
-| Regional Finalist | Web3Conf | Competitive finalist placement |
-| Top 100 Teams | Web3Conf | Shortlisted from a large national pool |
+| 💡 **Inspire Award** | CBSE National Science Exhibition | ₹10,000 prize · national recognition |
+| 🏅 **National Finalist ×2** | Ideate for India | Early-stage innovation validation |
+| 🌐 **Regional Finalist** | Web3Conf | Competitive finalist placement |
+| 📊 **Top 100 Teams** | Web3Conf | Shortlisted from a large national pool |
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// certifications`
 
 | Certification | Issuer | Status |
 | :-- | :-- | :-- |
-| MongoDB Certified Associate Developer | MongoDB, Inc. | Completed |
+| 🍃 **MongoDB Certified Associate Developer** | MongoDB, Inc. | **Completed** |
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/divider.svg" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 ## `// connect`
 
@@ -367,4 +367,4 @@ Built an AI system simplifying export documentation and compliance verification.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-choubey/ankit-choubey/main/assets/footer.svg" alt="IGNIS Footer" />
+<img width="100%" src="assets/footer.svg" alt="IGNIS Footer" />
