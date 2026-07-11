@@ -338,9 +338,9 @@ Built an AI system simplifying export documentation and compliance verification.
 
 | Recognition | Event | Detail |
 | :-- | :-- | :-- |
-| **Inspire Award** | CBSE National Science Exhibition | ₹10,000 prize · national recognition |
-| **National Finalist ×2** | Ideate for India | Early-stage innovation validation |
-| **Regional Finalist** | Web3Conf | Competitive finalist placement |
+| **Inspire Award Regionalist** | Inspire Competition | ₹10,000 prize · national recognition |
+| **National Finalist ×2** | CBSE Science Exhibition | Finalist at national level |
+| **Top 360 Regional Finalist** | Ideate for India | Finalist at state level |
 | **Top 100 Teams** | Web3Conf | Shortlisted from a large national pool |
 
 <img width="100%" src="assets/divider.svg" alt="divider"/>
